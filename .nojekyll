@@ -1,0 +1,7 @@
+# 在项目根目录创建空文件
+touch .nojekyll
+
+# 添加并提交
+git add .nojekyll
+git commit -m "禁用 Jekyll 处理"
+git push origin main
