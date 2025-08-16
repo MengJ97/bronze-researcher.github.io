@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://www.dhontology.com/ChineseCulture/data/bronze.owl" uri="http://www.dhontology.com/ChineseCulture/data/bronze.owl#Ding"/>
+    <uri id="Imports Wizard Entry" name="http://www.w3.org/2004/02/skos/core" uri="http://www.w3.org/2004/02/skos/core#"/>
+    <uri id="Imports Wizard Entry" name="http://www.w3.org/2004/02/skos/core" uri="http://www.w3.org/2004/02/skos/core#"/>
+    <uri id="Imports Wizard Entry" name="http://www.w3.org/2004/02/skos/core" uri="http://www.w3.org/2004/02/skos/core#"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1755269437656" name="http://www.semanticweb.org/77260/ontologies/2025/2/ShangDynastyBronzeOntology" uri="ShangDynastyBronzeOntology.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1755269437656" name="duplicate:http://www.semanticweb.org/77260/ontologies/2025/2/ShangDynastyBronzeOntology/" uri="ShangDynastyBronzeOntology.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1755269437656" name="duplicate:http://www.semanticweb.org/77260/ontologies/2025/2/ShangDynastyBronzeOntology/" uri="test.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1755269437656" name="https://github.com/MengJ97/bronze-researcher.github.io/blob/main/ShangDynastyBronzeOntology.owl" uri="ShangDynastyBronzeOntology.owl"/>
+    </group>
+</catalog>
