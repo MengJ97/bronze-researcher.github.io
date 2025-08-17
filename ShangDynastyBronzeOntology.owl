@@ -516,6 +516,9 @@
         <NamedIndividual IRI="#Lingshi_Dragon-pattern_Gong"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Linked-bead_pattern_Lei"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Linzheyu_Village_Baode_County"/>
     </Declaration>
     <Declaration>
@@ -733,9 +736,6 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Linked-bead_(or_Bead-chain)_pattern_Lei"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Pi-he_Zun_from_Liu’an"/>
@@ -1459,6 +1459,10 @@
         <NamedIndividual IRI="#Lingshi_Dragon-pattern_Gong"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Lei_RitualVessel"/>
+        <NamedIndividual IRI="#Linked-bead_pattern_Lei"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#ExcavationSite"/>
         <NamedIndividual IRI="#Linzheyu_Village_Baode_County"/>
     </ClassAssertion>
@@ -1751,10 +1755,6 @@
         <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#Lei_RitualVessel"/>
-        <NamedIndividual IRI="#Linked-bead_(or_Bead-chain)_pattern_Lei"/>
-    </ClassAssertion>
-    <ClassAssertion>
         <Class IRI="#Zun"/>
         <NamedIndividual IRI="#Pi-he_Zun_from_Liu’an"/>
     </ClassAssertion>
@@ -1998,6 +1998,11 @@
         <NamedIndividual IRI="#Animal-mask_Bovine-head_Zun"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#appliedIn"/>
+        <NamedIndividual IRI="#CoreSupport"/>
+        <NamedIndividual IRI="#Linked-bead_pattern_Lei"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <Annotation>
             <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
             <Literal xml:lang="zh">圈足十字镂孔由芯头配合外范制成（芯撑）</Literal>
@@ -2014,11 +2019,6 @@
         <ObjectProperty IRI="#appliedIn"/>
         <NamedIndividual IRI="#CoreSupport"/>
         <NamedIndividual IRI="#Xingan_Bu-modified_Ding"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#appliedIn"/>
-        <NamedIndividual IRI="#CoreSupport"/>
-        <NamedIndividual IRI="#Linked-bead_(or_Bead-chain)_pattern_Lei"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2411,6 +2411,34 @@
         <ObjectProperty IRI="#producedUsing"/>
         <NamedIndividual IRI="#Lingshi_Dragon-pattern_Gong"/>
         <NamedIndividual IRI="#SeparateCasting"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Linked-bead_pattern_Lei"/>
+        <NamedIndividual IRI="#Taixi_Gaocheng_Hebei"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">肩腹联珠纹</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDecorationType"/>
+        <NamedIndividual IRI="#Linked-bead_pattern_Lei"/>
+        <NamedIndividual IRI="#Bead_and_Reel_Motif"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">圈足弦纹</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDecorationType"/>
+        <NamedIndividual IRI="#Linked-bead_pattern_Lei"/>
+        <NamedIndividual IRI="#StringMotif"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#producedUsing"/>
+        <NamedIndividual IRI="#Linked-bead_pattern_Lei"/>
+        <NamedIndividual IRI="#One-timeCasting"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#belongsToPeriod"/>
@@ -3517,34 +3545,6 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Linked-bead_(or_Bead-chain)_pattern_Lei"/>
-        <NamedIndividual IRI="#Taixi_Gaocheng_Hebei"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">肩腹联珠纹</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Linked-bead_(or_Bead-chain)_pattern_Lei"/>
-        <NamedIndividual IRI="#Bead_and_Reel_Motif"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">圈足弦纹</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Linked-bead_(or_Bead-chain)_pattern_Lei"/>
-        <NamedIndividual IRI="#StringMotif"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#producedUsing"/>
-        <NamedIndividual IRI="#Linked-bead_(or_Bead-chain)_pattern_Lei"/>
-        <NamedIndividual IRI="#One-timeCasting"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Pi-he_Zun_from_Liu’an"/>
         <NamedIndividual IRI="#PiRiver_Liu’an_Anhui"/>
     </ObjectPropertyAssertion>
@@ -3809,6 +3809,11 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">28</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
+        <DataProperty IRI="#artifactHeight"/>
+        <NamedIndividual IRI="#Linked-bead_pattern_Lei"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">30.4</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
         <Annotation>
             <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
             <Literal>高约15-20cm</Literal>
@@ -4048,11 +4053,6 @@
         <DataProperty IRI="#weight"/>
         <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">20</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#artifactHeight"/>
-        <NamedIndividual IRI="#Linked-bead_(or_Bead-chain)_pattern_Lei"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">30.4</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#artifactHeight"/>
@@ -5529,6 +5529,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Lingshi_Dragon-pattern_Gong</IRI>
         <Literal xml:lang="zh">灵石龙纹觥</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Linked-bead_pattern_Lei</IRI>
+        <Literal xml:lang="en">Linked-bead (or Bead-chain) pattern Lei</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Linked-bead_pattern_Lei</IRI>
+        <Literal xml:lang="zh">联珠纹罍</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -7029,16 +7039,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan</IRI>
         <Literal xml:lang="zh">阜南月儿河龙虎尊</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Linked-bead_(or_Bead-chain)_pattern_Lei</IRI>
-        <Literal xml:lang="en">Linked-bead (or Bead-chain) pattern Lei</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Linked-bead_(or_Bead-chain)_pattern_Lei</IRI>
-        <Literal xml:lang="zh">联珠纹罍</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
