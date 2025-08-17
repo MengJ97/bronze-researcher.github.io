@@ -78,6 +78,12 @@
         <Class IRI="#Ding"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Dou_FoodVessel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dou_WineVessel"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Dui"/>
     </Declaration>
     <Declaration>
@@ -109,6 +115,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#Fu"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fu_FoodVessel"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Ge"/>
@@ -153,6 +162,12 @@
         <Class IRI="#Jia"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Jian_WaterVessel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Jian_Weapon"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Jiao"/>
     </Declaration>
     <Declaration>
@@ -166,6 +181,12 @@
     </Declaration>
     <Declaration>
         <Class IRI="#LateShang"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Lei_AgriculturalTool"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Lei_RitualVessel"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Li"/>
@@ -297,27 +318,6 @@
         <Class IRI="#Zun"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Dou(FoodVessel)"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Dou(WineVessel)"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Fu(FoodVessel)"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Jian(WaterVessel)"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Jian(Weapon)"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Lei(AgriculturalTool)"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Lei(RitualVessel)"/>
-    </Declaration>
-    <Declaration>
         <ObjectProperty IRI="#appliedIn"/>
     </Declaration>
     <Declaration>
@@ -369,6 +369,12 @@
         <NamedIndividual IRI="#Animal-mask_motif_Gu"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Anyang_Xiaomintun_Jue"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Baijiazhuang_Zhengzhou_Henan"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Bead_and_Reel_Motif"/>
     </Declaration>
     <Declaration>
@@ -379,6 +385,9 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Bow-string-pattern_Jia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Circular_sacrificial_pit_at_Hougang-Gaolouzhuang-Anyang-Henan"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#CloudThunder"/>
@@ -399,13 +408,22 @@
         <NamedIndividual IRI="#CoreSupport"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Ding_H1-2"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#DispersedShrinkage"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Distortion"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Dou_M5-744"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Dragon_and_Snake"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#DulingStreet_Zhengzhou"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Eddy"/>
@@ -423,6 +441,9 @@
         <NamedIndividual IRI="#ErligangLowerPhaseII"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#ErligangSite_Zhengzhou"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#ErligangUpper"/>
     </Declaration>
     <Declaration>
@@ -430,6 +451,12 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#ErligangUpperPhaseII"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art_Cologne"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Feijia_River_Yueyang_Hunan"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Four-Ram_Square_Zun_from_Ningxiang"/>
@@ -447,6 +474,21 @@
         <NamedIndividual IRI="#GasPorosity"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Guandimiao_Village_Tumen_Town_Yunxi_County_Shiyan_Hubei"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Gui_M1-5"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Gui_M5-848"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Jia_M2-19"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Jia_M5-781"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Kui-dragon_pattern_Ding"/>
     </Declaration>
     <Declaration>
@@ -462,13 +504,28 @@
         <NamedIndividual IRI="#LeadBronze"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Li-Lingshi_Shanxi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Lijiatan_Wushan_Chongqing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Lijiatan_Zun_from_Wushan_Chongqing"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Lingshi_Dragon-pattern_Gong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Linzheyu_Village_Baode_County"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Liulige_Jue_from_Huixian"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Loop-handled_Hu"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Luoshan_Mangzhang_Owl-shaped_You"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#MetalSpacer"/>
@@ -486,6 +543,9 @@
         <NamedIndividual IRI="#MoldSeamResidue"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#North_Wuguan_Site_Anyang_Henan"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#One-timeCasting"/>
     </Declaration>
     <Declaration>
@@ -498,10 +558,16 @@
         <NamedIndividual IRI="#OxideInclusions"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#PanlongchengSite_Huangpi_Hubei"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Pig"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Post-castingProcessing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#QianzhuangSite_Pinglu_Shanxi"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Qianzhuang_Lei"/>
@@ -520,6 +586,9 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#SeparateCasting"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen_Yunxi"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#ShortRun"/>
@@ -546,7 +615,19 @@
         <NamedIndividual IRI="#StringMotif"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#SubuTun_Yidu_Shandong"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Suspended-Bell_Gui"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Taixi_Gaocheng_Hebei"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#TanheliSite_Huangcai_Ningxiang_Hunan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Taohuazhuang_Shilou_Shanxi"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Taotie"/>
@@ -561,10 +642,46 @@
         <NamedIndividual IRI="#TinLeadBronze"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Tomb1004_North_Wuguan_Anyang_Henan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Tomb1_at_Lijiazui_Panlongcheng_Huangpi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Tomb54_Liulige_Huixian_Henan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Tomb5_Xiaotun_Anyang_Henan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#TombM1_Houli_Village_Mangzhang_Luoshan_Henan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#TombM1_JingjieVillage_Lingshi_Shanxi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#TombXDM_at_Dayangzhou_Xingan_Jiangxi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Tomb_at_Xiaonanzhang_Village_Wen_County_Henan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Wen_County_Xifang_Ding"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Whorl-pattern_Stemmed_Yu"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Xiangyang_Hui_Ethnic_Food_Factory_Zhengzhou_Henan"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Xiao"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Xiaomintun_Bronze_Foundry_Site_Yinxu_Anyang_Henan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Xindian_Zaoyang_Hubei"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Xindian_Zun_from_Zaoyang"/>
@@ -594,10 +711,19 @@
         <NamedIndividual IRI="#YinxuPhaseIV"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Yinxu_Anyang_Henan"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#You-V-192"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#You_M5-829"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Yue_from_the_tomb_of_Fu_Hao"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Yueyang_Feijia-he_Zun"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Zhengzhou_Henan_Provence"/>
@@ -606,145 +732,19 @@
         <NamedIndividual IRI="#Zun_from_the_Tokyo_National_Museum_Collection"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Baijiazhuang,_Zhengzhou,_Henan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Circular_sacrificial_pit_at_Hougang,_Gaolouzhuang,_Anyang,_Henan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Ding-H1:2"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Dou-M5:744"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Duling_Street,_Zhengzhou"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Erligang_Site,_Zhengzhou"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art,_Cologne"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Feijia-he_Zun,_Yueyang"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Feijia_River,_Yueyang,_Hunan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Guandimiao_Village,_Tumen_Town,_Yunxi_County,_Shiyan,_Hubei"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Gui-M1:5"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Gui-M5:848"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Jia-M2:19"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Jia-M5:781"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Li(Lingshi_Shanxi)"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Lijiatan,_Wushan,_Chongqing"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Lijiatan_Zun,_Wushan,_Chongqing"/>
+        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Linked-bead_(or_Bead-chain)_pattern_Lei"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Linzheyu_Village,_Baode_County"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Mangzhang_Owl-shaped_You,_Luoshan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#North_Wuguan_Site,_Anyang,_Henan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Panlongcheng_Site,_Huangpi,_Hubei"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#Pi-he_Zun_from_Liu’an"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Pi_River,_Liu’an,_Anhui"/>
+        <NamedIndividual IRI="#PiRiver_Liu’an_Anhui"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Qianzhuang_Site,_Pinglu,_Shanxi"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen,_Yunxi"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Subu_Tun,_Yidu,_Shandong"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Taixi,_Gaocheng,_Hebei"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Tanheli_Site,_Huangcai,_Ningxiang,_Hunan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Taohuazhuang,_Shilou,_Shanxi"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Tomb_1004,_North_Wuguan,_Anyang,_Henan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Tomb_1_at_Lijiazui,_Panlongcheng,_Huangpi"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Tomb_5,_Xiaotun,_Anyang,_Henan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Tomb_54,_Liulige,_Huixian,_Henan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Tomb_M1,_Houli_Village,_Mangzhang,_Luoshan,_Henan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Tomb_M1,_Jingjie_Village,_Lingshi,_Shanxi"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Tomb_XDM_at_Dayangzhou,_Xingan,_Jiangxi"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Tomb_at_Xiaonanzhang_Village,_Wen_County,_Henan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Xiangyang_Hui_Ethnic_Food_Factory,_Zhengzhou,_Henan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Xiaomintun_Bronze_Foundry_Site,_Yinxu,_Anyang,_Henan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Xiaomintun_Jue,_Anyang"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Xifang_Ding,_Wen_County"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Xindian,_Zaoyang,_Hubei"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Yinxu,_Anyang,_Henan"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#You-M5:829"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Yue’er_River,_Zhuzhai,_Funan,_Anhui"/>
+        <NamedIndividual IRI="#Yue’er_River_Zhuzhai_Funan_Anhui"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#closeMatch"/>
@@ -824,6 +824,14 @@
         <Class IRI="#FoodVessel"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Dou_FoodVessel"/>
+        <Class IRI="#FoodVessel"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dou_WineVessel"/>
+        <Class IRI="#WineVessel"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Dui"/>
         <Class IRI="#FoodVessel"/>
     </SubClassOf>
@@ -862,6 +870,10 @@
     <SubClassOf>
         <Class IRI="#Fu"/>
         <Class IRI="#MeasuringVessel"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fu_FoodVessel"/>
+        <Class IRI="#FoodVessel"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Ge"/>
@@ -920,6 +932,14 @@
         <Class IRI="#WineVessel"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Jian_WaterVessel"/>
+        <Class IRI="#WaterVessel"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Jian_Weapon"/>
+        <Class IRI="#Weapon"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Jiao"/>
         <Class IRI="#WineVessel"/>
     </SubClassOf>
@@ -938,6 +958,14 @@
     <SubClassOf>
         <Class IRI="#LateShang"/>
         <Class IRI="#PeriodPhase"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Lei_AgriculturalTool"/>
+        <Class IRI="#Tool"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Lei_RitualVessel"/>
+        <Class IRI="#WineVessel"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Li"/>
@@ -1103,34 +1131,6 @@
         <Class IRI="#Zun"/>
         <Class IRI="#WineVessel"/>
     </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Dou(FoodVessel)"/>
-        <Class IRI="#FoodVessel"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Dou(WineVessel)"/>
-        <Class IRI="#WineVessel"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Fu(FoodVessel)"/>
-        <Class IRI="#FoodVessel"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Jian(WaterVessel)"/>
-        <Class IRI="#WaterVessel"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Jian(Weapon)"/>
-        <Class IRI="#Weapon"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Lei(AgriculturalTool)"/>
-        <Class IRI="#Tool"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Lei(RitualVessel)"/>
-        <Class IRI="#WineVessel"/>
-    </SubClassOf>
     <DisjointClasses>
         <Class IRI="#AnimalMotifPattern"/>
         <Class IRI="#GeometricPattern"/>
@@ -1141,12 +1141,12 @@
         <Class IRI="#Axe"/>
         <Class IRI="#Chisel"/>
         <Class IRI="#Hoe"/>
+        <Class IRI="#Lei_AgriculturalTool"/>
         <Class IRI="#Saw"/>
         <Class IRI="#ShortAxe"/>
         <Class IRI="#Shovel"/>
         <Class IRI="#Si"/>
         <Class IRI="#Sickle"/>
-        <Class IRI="#Lei(AgriculturalTool)"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#AxleSleeve"/>
@@ -1157,6 +1157,7 @@
     <DisjointClasses>
         <Class IRI="#Bei"/>
         <Class IRI="#Bu"/>
+        <Class IRI="#Dou_WineVessel"/>
         <Class IRI="#Fangyi"/>
         <Class IRI="#Fou"/>
         <Class IRI="#Gong"/>
@@ -1166,14 +1167,13 @@
         <Class IRI="#Jiao"/>
         <Class IRI="#Jin"/>
         <Class IRI="#Jue"/>
+        <Class IRI="#Lei_RitualVessel"/>
         <Class IRI="#Min"/>
         <Class IRI="#Ping"/>
         <Class IRI="#Shao"/>
         <Class IRI="#You"/>
         <Class IRI="#Zhi"/>
         <Class IRI="#Zun"/>
-        <Class IRI="#Dou(WineVessel)"/>
-        <Class IRI="#Lei(RitualVessel)"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#BowGrip"/>
@@ -1210,13 +1210,13 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#Ding"/>
+        <Class IRI="#Dou_FoodVessel"/>
         <Class IRI="#Dui"/>
+        <Class IRI="#Fu_FoodVessel"/>
         <Class IRI="#Gui"/>
         <Class IRI="#Li"/>
         <Class IRI="#Xu"/>
         <Class IRI="#Yan"/>
-        <Class IRI="#Dou(FoodVessel)"/>
-        <Class IRI="#Fu(FoodVessel)"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#EarlyShang"/>
@@ -1240,11 +1240,11 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#He"/>
+        <Class IRI="#Jian_WaterVessel"/>
         <Class IRI="#Pan"/>
         <Class IRI="#Pen"/>
         <Class IRI="#Yi"/>
         <Class IRI="#Yu"/>
-        <Class IRI="#Jian(WaterVessel)"/>
     </DisjointClasses>
     <ClassAssertion>
         <Class IRI="#Zun"/>
@@ -1263,6 +1263,14 @@
         <NamedIndividual IRI="#Animal-mask_motif_Gu"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Jue"/>
+        <NamedIndividual IRI="#Anyang_Xiaomintun_Jue"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Baijiazhuang_Zhengzhou_Henan"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#GeometricPattern"/>
         <NamedIndividual IRI="#Bead_and_Reel_Motif"/>
     </ClassAssertion>
@@ -1277,6 +1285,10 @@
     <ClassAssertion>
         <Class IRI="#Jia"/>
         <NamedIndividual IRI="#Bow-string-pattern_Jia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Circular_sacrificial_pit_at_Hougang-Gaolouzhuang-Anyang-Henan"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#GeometricPattern"/>
@@ -1303,6 +1315,10 @@
         <NamedIndividual IRI="#CoreSupport"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Ding"/>
+        <NamedIndividual IRI="#Ding_H1-2"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Cavities"/>
         <NamedIndividual IRI="#DispersedShrinkage"/>
     </ClassAssertion>
@@ -1311,8 +1327,16 @@
         <NamedIndividual IRI="#Distortion"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Dou_WineVessel"/>
+        <NamedIndividual IRI="#Dou_M5-744"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#MythologicalCreaturePattern"/>
         <NamedIndividual IRI="#Dragon_and_Snake"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#DulingStreet_Zhengzhou"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#GeometricPattern"/>
@@ -1335,6 +1359,10 @@
         <NamedIndividual IRI="#ErligangLowerPhaseII"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#ErligangSite_Zhengzhou"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#ErligangUpper"/>
         <NamedIndividual IRI="#ErligangUpper"/>
     </ClassAssertion>
@@ -1347,6 +1375,14 @@
         <NamedIndividual IRI="#ErligangUpperPhaseII"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Fangyi"/>
+        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art_Cologne"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Feijia_River_Yueyang_Hunan"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Zun"/>
         <NamedIndividual IRI="#Four-Ram_Square_Zun_from_Ningxiang"/>
     </ClassAssertion>
@@ -1355,7 +1391,7 @@
         <NamedIndividual IRI="#Fu_Hao_Ring-foot_Gong"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#Lei(RitualVessel)"/>
+        <Class IRI="#Lei_RitualVessel"/>
         <NamedIndividual IRI="#Fu_Hao_Square_Lei"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1365,6 +1401,26 @@
     <ClassAssertion>
         <Class IRI="#Cavities"/>
         <NamedIndividual IRI="#GasPorosity"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Guandimiao_Village_Tumen_Town_Yunxi_County_Shiyan_Hubei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Gui"/>
+        <NamedIndividual IRI="#Gui_M1-5"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Gui"/>
+        <NamedIndividual IRI="#Gui_M5-848"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Jia"/>
+        <NamedIndividual IRI="#Jia_M2-19"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Jia"/>
+        <NamedIndividual IRI="#Jia_M5-781"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Ding"/>
@@ -1387,8 +1443,24 @@
         <NamedIndividual IRI="#LeadBronze"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Li"/>
+        <NamedIndividual IRI="#Li-Lingshi_Shanxi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Lijiatan_Wushan_Chongqing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Zun"/>
+        <NamedIndividual IRI="#Lijiatan_Zun_from_Wushan_Chongqing"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Gong"/>
         <NamedIndividual IRI="#Lingshi_Dragon-pattern_Gong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Linzheyu_Village_Baode_County"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Jue"/>
@@ -1397,6 +1469,10 @@
     <ClassAssertion>
         <Class IRI="#Hu"/>
         <NamedIndividual IRI="#Loop-handled_Hu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#You"/>
+        <NamedIndividual IRI="#Luoshan_Mangzhang_Owl-shaped_You"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#TechnicalFeature"/>
@@ -1419,6 +1495,10 @@
         <NamedIndividual IRI="#MoldSeamResidue"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#North_Wuguan_Site_Anyang_Henan"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#CastingMethod"/>
         <NamedIndividual IRI="#One-timeCasting"/>
     </ClassAssertion>
@@ -1435,6 +1515,10 @@
         <NamedIndividual IRI="#OxideInclusions"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#PanlongchengSite_Huangpi_Hubei"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#AnimalMotifPattern"/>
         <NamedIndividual IRI="#Pig"/>
     </ClassAssertion>
@@ -1443,7 +1527,11 @@
         <NamedIndividual IRI="#Post-castingProcessing"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#Lei(RitualVessel)"/>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#QianzhuangSite_Pinglu_Shanxi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Lei_RitualVessel"/>
         <NamedIndividual IRI="#Qianzhuang_Lei"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1465,6 +1553,10 @@
     <ClassAssertion>
         <Class IRI="#CastingMethod"/>
         <NamedIndividual IRI="#SeparateCasting"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Bu"/>
+        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen_Yunxi"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Imcomplete"/>
@@ -1499,8 +1591,24 @@
         <NamedIndividual IRI="#StringMotif"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#SubuTun_Yidu_Shandong"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Gui"/>
         <NamedIndividual IRI="#Suspended-Bell_Gui"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Taixi_Gaocheng_Hebei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#TanheliSite_Huangcai_Ningxiang_Hunan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Taohuazhuang_Shilou_Shanxi"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#MythologicalCreaturePattern"/>
@@ -1519,12 +1627,60 @@
         <NamedIndividual IRI="#TinLeadBronze"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Tomb1004_North_Wuguan_Anyang_Henan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Tomb1_at_Lijiazui_Panlongcheng_Huangpi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Tomb54_Liulige_Huixian_Henan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Tomb5_Xiaotun_Anyang_Henan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#TombM1_Houli_Village_Mangzhang_Luoshan_Henan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#TombM1_JingjieVillage_Lingshi_Shanxi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#TombXDM_at_Dayangzhou_Xingan_Jiangxi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Tomb_at_Xiaonanzhang_Village_Wen_County_Henan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ding"/>
+        <NamedIndividual IRI="#Wen_County_Xifang_Ding"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Yu"/>
         <NamedIndividual IRI="#Whorl-pattern_Stemmed_Yu"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Xiangyang_Hui_Ethnic_Food_Factory_Zhengzhou_Henan"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#AnimalMotifPattern"/>
         <NamedIndividual IRI="#Xiao"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Xiaomintun_Bronze_Foundry_Site_Yinxu_Anyang_Henan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Xindian_Zaoyang_Hubei"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Zun"/>
@@ -1563,12 +1719,24 @@
         <NamedIndividual IRI="#YinxuPhaseIV"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#ExcavationSite"/>
+        <NamedIndividual IRI="#Yinxu_Anyang_Henan"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#You"/>
         <NamedIndividual IRI="#You-V-192"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#You"/>
+        <NamedIndividual IRI="#You_M5-829"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Yue"/>
         <NamedIndividual IRI="#Yue_from_the_tomb_of_Fu_Hao"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Zun"/>
+        <NamedIndividual IRI="#Yueyang_Feijia-he_Zun"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#ExcavationSite"/>
@@ -1579,96 +1747,12 @@
         <NamedIndividual IRI="#Zun_from_the_Tokyo_National_Museum_Collection"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Baijiazhuang,_Zhengzhou,_Henan"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Circular_sacrificial_pit_at_Hougang,_Gaolouzhuang,_Anyang,_Henan"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Ding"/>
-        <NamedIndividual IRI="#Ding-H1:2"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Dou(WineVessel)"/>
-        <NamedIndividual IRI="#Dou-M5:744"/>
-    </ClassAssertion>
-    <ClassAssertion>
         <Class IRI="#Zun"/>
-        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan"/>
+        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Duling_Street,_Zhengzhou"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Erligang_Site,_Zhengzhou"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Fangyi"/>
-        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art,_Cologne"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Zun"/>
-        <NamedIndividual IRI="#Feijia-he_Zun,_Yueyang"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Feijia_River,_Yueyang,_Hunan"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Guandimiao_Village,_Tumen_Town,_Yunxi_County,_Shiyan,_Hubei"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Gui"/>
-        <NamedIndividual IRI="#Gui-M1:5"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Gui"/>
-        <NamedIndividual IRI="#Gui-M5:848"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Jia"/>
-        <NamedIndividual IRI="#Jia-M2:19"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Jia"/>
-        <NamedIndividual IRI="#Jia-M5:781"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Li"/>
-        <NamedIndividual IRI="#Li(Lingshi_Shanxi)"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Lijiatan,_Wushan,_Chongqing"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Zun"/>
-        <NamedIndividual IRI="#Lijiatan_Zun,_Wushan,_Chongqing"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Lei(RitualVessel)"/>
+        <Class IRI="#Lei_RitualVessel"/>
         <NamedIndividual IRI="#Linked-bead_(or_Bead-chain)_pattern_Lei"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Linzheyu_Village,_Baode_County"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#You"/>
-        <NamedIndividual IRI="#Mangzhang_Owl-shaped_You,_Luoshan"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#North_Wuguan_Site,_Anyang,_Henan"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Panlongcheng_Site,_Huangpi,_Hubei"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Zun"/>
@@ -1676,100 +1760,16 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Pi_River,_Liu’an,_Anhui"/>
+        <NamedIndividual IRI="#PiRiver_Liu’an_Anhui"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Qianzhuang_Site,_Pinglu,_Shanxi"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Bu"/>
-        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen,_Yunxi"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Subu_Tun,_Yidu,_Shandong"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Taixi,_Gaocheng,_Hebei"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Tanheli_Site,_Huangcai,_Ningxiang,_Hunan"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Taohuazhuang,_Shilou,_Shanxi"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Tomb_1004,_North_Wuguan,_Anyang,_Henan"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Tomb_1_at_Lijiazui,_Panlongcheng,_Huangpi"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Tomb_5,_Xiaotun,_Anyang,_Henan"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Tomb_54,_Liulige,_Huixian,_Henan"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Tomb_M1,_Houli_Village,_Mangzhang,_Luoshan,_Henan"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Tomb_M1,_Jingjie_Village,_Lingshi,_Shanxi"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Tomb_XDM_at_Dayangzhou,_Xingan,_Jiangxi"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Tomb_at_Xiaonanzhang_Village,_Wen_County,_Henan"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Xiangyang_Hui_Ethnic_Food_Factory,_Zhengzhou,_Henan"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Xiaomintun_Bronze_Foundry_Site,_Yinxu,_Anyang,_Henan"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Jue"/>
-        <NamedIndividual IRI="#Xiaomintun_Jue,_Anyang"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Ding"/>
-        <NamedIndividual IRI="#Xifang_Ding,_Wen_County"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Xindian,_Zaoyang,_Hubei"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Yinxu,_Anyang,_Henan"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#You"/>
-        <NamedIndividual IRI="#You-M5:829"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#ExcavationSite"/>
-        <NamedIndividual IRI="#Yue’er_River,_Zhuzhai,_Funan,_Anhui"/>
+        <NamedIndividual IRI="#Yue’er_River_Zhuzhai_Funan_Anhui"/>
     </ClassAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Animal-mask_Bovine-head_Zun"/>
-        <NamedIndividual IRI="#Xiangyang_Hui_Ethnic_Food_Factory,_Zhengzhou,_Henan"/>
+        <NamedIndividual IRI="#Xiangyang_Hui_Ethnic_Food_Factory_Zhengzhou_Henan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -1811,7 +1811,7 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Animal-mask_Ding"/>
-        <NamedIndividual IRI="#Tomb_5,_Xiaotun,_Anyang,_Henan"/>
+        <NamedIndividual IRI="#Tomb5_Xiaotun_Anyang_Henan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -1853,7 +1853,7 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Animal-mask_Square_Ding"/>
-        <NamedIndividual IRI="#Duling_Street,_Zhengzhou"/>
+        <NamedIndividual IRI="#DulingStreet_Zhengzhou"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -1877,7 +1877,7 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Animal-mask_motif_Gu"/>
-        <NamedIndividual IRI="#Panlongcheng_Site,_Huangpi,_Hubei"/>
+        <NamedIndividual IRI="#PanlongchengSite_Huangpi_Hubei"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -1899,18 +1899,47 @@
         <NamedIndividual IRI="#One-timeCasting"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Anyang_Xiaomintun_Jue"/>
+        <NamedIndividual IRI="#Xiaomintun_Bronze_Foundry_Site_Yinxu_Anyang_Henan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">卵形腹，菌状柱，三角锥足，素面或简单弦纹</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDecorationType"/>
+        <NamedIndividual IRI="#Anyang_Xiaomintun_Jue"/>
+        <NamedIndividual IRI="#StringMotif"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeFrom"/>
+        <NamedIndividual IRI="#Anyang_Xiaomintun_Jue"/>
+        <NamedIndividual IRI="#TinBronze"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#producedUsing"/>
+        <NamedIndividual IRI="#Anyang_Xiaomintun_Jue"/>
+        <NamedIndividual IRI="#One-timeCasting"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Baijiazhuang_Zhengzhou_Henan"/>
+        <NamedIndividual IRI="#ErligangUpper"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#appliedIn"/>
+        <NamedIndividual IRI="#BlindCores"/>
+        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen_Yunxi"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <Annotation>
             <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
             <Literal xml:lang="zh">盲芯技术：浮雕部位器壁外凸内凹</Literal>
         </Annotation>
         <ObjectProperty IRI="#appliedIn"/>
         <NamedIndividual IRI="#BlindCores"/>
-        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#appliedIn"/>
-        <NamedIndividual IRI="#BlindCores"/>
-        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen,_Yunxi"/>
+        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -1919,7 +1948,7 @@
         </Annotation>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Bow-string-pattern_Ding"/>
-        <NamedIndividual IRI="#Erligang_Site,_Zhengzhou"/>
+        <NamedIndividual IRI="#ErligangSite_Zhengzhou"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -1936,6 +1965,11 @@
         <NamedIndividual IRI="#One-timeCasting"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Bow-string-pattern_Jia"/>
+        <NamedIndividual IRI="#Baijiazhuang_Zhengzhou_Henan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <Annotation>
             <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
             <Literal xml:lang="zh">颈下两道弦纹</Literal>
@@ -1948,6 +1982,15 @@
         <ObjectProperty IRI="#producedUsing"/>
         <NamedIndividual IRI="#Bow-string-pattern_Jia"/>
         <NamedIndividual IRI="#One-timeCasting"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">约公元前1100-1046年</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Circular_sacrificial_pit_at_Hougang-Gaolouzhuang-Anyang-Henan"/>
+        <NamedIndividual IRI="#YinxuPhaseIII"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#appliedIn"/>
@@ -1978,9 +2021,84 @@
         <NamedIndividual IRI="#Linked-bead_(or_Bead-chain)_pattern_Lei"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">商中期</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Ding_H1-2"/>
+        <NamedIndividual IRI="#Zhengzhou_Henan_Provence"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeFrom"/>
+        <NamedIndividual IRI="#Ding_H1-2"/>
+        <NamedIndividual IRI="#TinBronze"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Dou_M5-744"/>
+        <NamedIndividual IRI="#Tomb5_Xiaotun_Anyang_Henan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeFrom"/>
+        <NamedIndividual IRI="#Dou_M5-744"/>
+        <NamedIndividual IRI="#TinBronze"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#DulingStreet_Zhengzhou"/>
+        <NamedIndividual IRI="#ErligangUpper"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">商代殷墟二期（约公元前1250年）</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art_Cologne"/>
+        <NamedIndividual IRI="#Yinxu_Anyang_Henan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">长方体，庑殿顶盖，腹部饰阴线兽面纹</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDecorationType"/>
+        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art_Cologne"/>
+        <NamedIndividual IRI="#Taotie"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">分范错位：兽面纹两侧眼睛大小不一</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDefect"/>
+        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art_Cologne"/>
+        <NamedIndividual IRI="#MoldMisalignment"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeFrom"/>
+        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art_Cologne"/>
+        <NamedIndividual IRI="#TinLeadBronze"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#producedUsing"/>
+        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art_Cologne"/>
+        <NamedIndividual IRI="#One-timeCasting"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">中商中晚期</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Feijia_River_Yueyang_Hunan"/>
+        <NamedIndividual IRI="#MiddleShang"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Four-Ram_Square_Zun_from_Ningxiang"/>
-        <NamedIndividual IRI="#Tanheli_Site,_Huangcai,_Ningxiang,_Hunan"/>
+        <NamedIndividual IRI="#TanheliSite_Huangcai_Ningxiang_Hunan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2012,7 +2130,7 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Fu_Hao_Ring-foot_Gong"/>
-        <NamedIndividual IRI="#Tomb_5,_Xiaotun,_Anyang,_Henan"/>
+        <NamedIndividual IRI="#Tomb5_Xiaotun_Anyang_Henan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2045,7 +2163,7 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Fu_Hao_Square_Lei"/>
-        <NamedIndividual IRI="#Tomb_5,_Xiaotun,_Anyang,_Henan"/>
+        <NamedIndividual IRI="#Tomb5_Xiaotun_Anyang_Henan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#hasDecorationType"/>
@@ -2070,7 +2188,7 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Fu_Hao_Square_Zun"/>
-        <NamedIndividual IRI="#Tomb_5,_Xiaotun,_Anyang,_Henan"/>
+        <NamedIndividual IRI="#Tomb5_Xiaotun_Anyang_Henan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#hasDecorationType"/>
@@ -2087,9 +2205,54 @@
         <NamedIndividual IRI="#Taotie"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Guandimiao_Village_Tumen_Town_Yunxi_County_Shiyan_Hubei"/>
+        <NamedIndividual IRI="#YinxuPhaseII"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Gui_M1-5"/>
+        <NamedIndividual IRI="#Tomb1_at_Lijiazui_Panlongcheng_Huangpi"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#producedUsing"/>
+        <NamedIndividual IRI="#Gui_M1-5"/>
+        <NamedIndividual IRI="#SeparateCasting"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Gui_M5-848"/>
+        <NamedIndividual IRI="#Tomb5_Xiaotun_Anyang_Henan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeFrom"/>
+        <NamedIndividual IRI="#Gui_M5-848"/>
+        <NamedIndividual IRI="#TinBronze"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Jia_M2-19"/>
+        <NamedIndividual IRI="#PanlongchengSite_Huangpi_Hubei"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeFrom"/>
+        <NamedIndividual IRI="#Jia_M2-19"/>
+        <NamedIndividual IRI="#TinLeadBronze"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Jia_M5-781"/>
+        <NamedIndividual IRI="#Tomb5_Xiaotun_Anyang_Henan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeFrom"/>
+        <NamedIndividual IRI="#Jia_M5-781"/>
+        <NamedIndividual IRI="#TinBronze"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Kui-dragon_pattern_Ding"/>
-        <NamedIndividual IRI="#Linzheyu_Village,_Baode_County"/>
+        <NamedIndividual IRI="#Linzheyu_Village_Baode_County"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#hasDecorationType"/>
@@ -2118,7 +2281,7 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Kui-dragon_pattern_Pan"/>
-        <NamedIndividual IRI="#Baijiazhuang,_Zhengzhou,_Henan"/>
+        <NamedIndividual IRI="#Baijiazhuang_Zhengzhou_Henan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2136,8 +2299,86 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Li-Lingshi_Shanxi"/>
+        <NamedIndividual IRI="#TombM1_JingjieVillage_Lingshi_Shanxi"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeFrom"/>
+        <NamedIndividual IRI="#Li-Lingshi_Shanxi"/>
+        <NamedIndividual IRI="#TinLeadBronze"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">中商中晚期</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Lijiatan_Wushan_Chongqing"/>
+        <NamedIndividual IRI="#MiddleShang"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Lijiatan_Zun_from_Wushan_Chongqing"/>
+        <NamedIndividual IRI="#Lijiatan_Wushan_Chongqing"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">腹部：高浮雕散裂式兽面纹+变体夔龙纹，云雷纹衬地</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDecorationType"/>
+        <NamedIndividual IRI="#Lijiatan_Zun_from_Wushan_Chongqing"/>
+        <NamedIndividual IRI="#CloudThunder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">肩部：三牺首（羊头形）+三片状伏卧鸟饰+浅浮雕夔龙纹带；腹部：高浮雕散裂式兽面纹+变体夔龙纹，云雷纹衬地；圈足：高浮雕半散裂式兽面纹+夔龙纹</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDecorationType"/>
+        <NamedIndividual IRI="#Lijiatan_Zun_from_Wushan_Chongqing"/>
+        <NamedIndividual IRI="#Kuilong"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">腹部：高浮雕散裂式兽面纹+变体夔龙纹，云雷纹衬地；圈足：高浮雕半散裂式兽面纹+夔龙纹</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDecorationType"/>
+        <NamedIndividual IRI="#Lijiatan_Zun_from_Wushan_Chongqing"/>
+        <NamedIndividual IRI="#Taotie"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">底部浇不足孔洞（部分补缀）</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDefect"/>
+        <NamedIndividual IRI="#Lijiatan_Zun_from_Wushan_Chongqing"/>
+        <NamedIndividual IRI="#ShortRun"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">牺首开裂、鸟饰残损</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDefect"/>
+        <NamedIndividual IRI="#Lijiatan_Zun_from_Wushan_Chongqing"/>
+        <NamedIndividual IRI="#StressCrack"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">牺首后铸</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#producedUsing"/>
+        <NamedIndividual IRI="#Lijiatan_Zun_from_Wushan_Chongqing"/>
+        <NamedIndividual IRI="#SeparateCasting"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Lingshi_Dragon-pattern_Gong"/>
-        <NamedIndividual IRI="#Tomb_M1,_Jingjie_Village,_Lingshi,_Shanxi"/>
+        <NamedIndividual IRI="#TombM1_JingjieVillage_Lingshi_Shanxi"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2172,9 +2413,14 @@
         <NamedIndividual IRI="#SeparateCasting"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Linzheyu_Village_Baode_County"/>
+        <NamedIndividual IRI="#LateShang"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Liulige_Jue_from_Huixian"/>
-        <NamedIndividual IRI="#Tomb_54,_Liulige,_Huixian,_Henan"/>
+        <NamedIndividual IRI="#Tomb54_Liulige_Huixian_Henan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2220,7 +2466,7 @@
         </Annotation>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Loop-handled_Hu"/>
-        <NamedIndividual IRI="#Erligang_Site,_Zhengzhou"/>
+        <NamedIndividual IRI="#ErligangSite_Zhengzhou"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#madeFrom"/>
@@ -2231,6 +2477,47 @@
         <ObjectProperty IRI="#producedUsing"/>
         <NamedIndividual IRI="#Loop-handled_Hu"/>
         <NamedIndividual IRI="#SeparateCasting"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Luoshan_Mangzhang_Owl-shaped_You"/>
+        <NamedIndividual IRI="#TombM1_Houli_Village_Mangzhang_Luoshan_Henan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">高浮雕鸮首+羽翼龙纹</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDecorationType"/>
+        <NamedIndividual IRI="#Luoshan_Mangzhang_Owl-shaped_You"/>
+        <NamedIndividual IRI="#CoiledDragon"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">Sn≈10-15%</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#madeFrom"/>
+        <NamedIndividual IRI="#Luoshan_Mangzhang_Owl-shaped_You"/>
+        <NamedIndividual IRI="#TinLeadBronze"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">提梁、盖纽与器身组合</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#producedUsing"/>
+        <NamedIndividual IRI="#Luoshan_Mangzhang_Owl-shaped_You"/>
+        <NamedIndividual IRI="#SeparateCasting"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">颈部使用垫片(金属芯撑）</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#appliedIn"/>
+        <NamedIndividual IRI="#MetalSpacer"/>
+        <NamedIndividual IRI="#Lijiatan_Zun_from_Wushan_Chongqing"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2266,16 +2553,7 @@
         </Annotation>
         <ObjectProperty IRI="#appliedIn"/>
         <NamedIndividual IRI="#MetalSpacer"/>
-        <NamedIndividual IRI="#Feijia-he_Zun,_Yueyang"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">颈部使用垫片(金属芯撑）</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#appliedIn"/>
-        <NamedIndividual IRI="#MetalSpacer"/>
-        <NamedIndividual IRI="#Lijiatan_Zun,_Wushan,_Chongqing"/>
+        <NamedIndividual IRI="#Yueyang_Feijia-he_Zun"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2285,6 +2563,34 @@
         <ObjectProperty IRI="#appliedIn"/>
         <NamedIndividual IRI="#MetalSpacer"/>
         <NamedIndividual IRI="#Pi-he_Zun_from_Liu’an"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">范作纹饰：纹饰直接在陶范刻划
+铸后未打磨，保留原始范线</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#appliedIn"/>
+        <NamedIndividual IRI="#MoldSeam"/>
+        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art_Cologne"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">范线沿扉棱三分</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#appliedIn"/>
+        <NamedIndividual IRI="#MoldSeam"/>
+        <NamedIndividual IRI="#Lijiatan_Zun_from_Wushan_Chongqing"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">腹部范线较宽</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#appliedIn"/>
+        <NamedIndividual IRI="#MoldSeam"/>
+        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen_Yunxi"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2303,29 +2609,11 @@
     <ObjectPropertyAssertion>
         <Annotation>
             <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">范作纹饰：纹饰直接在陶范刻划，铸后未打磨，保留原始范线</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#appliedIn"/>
-        <NamedIndividual IRI="#MoldSeam"/>
-        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art,_Cologne"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
             <Literal xml:lang="zh">范线沿鸟饰/扉棱垂直分型</Literal>
         </Annotation>
         <ObjectProperty IRI="#appliedIn"/>
         <NamedIndividual IRI="#MoldSeam"/>
-        <NamedIndividual IRI="#Feijia-he_Zun,_Yueyang"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">范线沿扉棱三分</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#appliedIn"/>
-        <NamedIndividual IRI="#MoldSeam"/>
-        <NamedIndividual IRI="#Lijiatan_Zun,_Wushan,_Chongqing"/>
+        <NamedIndividual IRI="#Yueyang_Feijia-he_Zun"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2339,16 +2627,16 @@
     <ObjectPropertyAssertion>
         <Annotation>
             <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">腹部范线较宽</Literal>
+            <Literal xml:lang="zh">约公元前1100-1046年</Literal>
         </Annotation>
-        <ObjectProperty IRI="#appliedIn"/>
-        <NamedIndividual IRI="#MoldSeam"/>
-        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen,_Yunxi"/>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#North_Wuguan_Site_Anyang_Henan"/>
+        <NamedIndividual IRI="#YinxuPhaseIII"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Owl-shaped_Zun"/>
-        <NamedIndividual IRI="#Tomb_5,_Xiaotun,_Anyang,_Henan"/>
+        <NamedIndividual IRI="#Tomb5_Xiaotun_Anyang_Henan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2372,7 +2660,7 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Ox-Form_Square_Ding"/>
-        <NamedIndividual IRI="#Tomb_1004,_North_Wuguan,_Anyang,_Henan"/>
+        <NamedIndividual IRI="#Tomb1004_North_Wuguan_Anyang_Henan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2396,11 +2684,11 @@
     <ObjectPropertyAssertion>
         <Annotation>
             <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">铸后打磨（保留垂直披缝）</Literal>
+            <Literal xml:lang="zh">约公元前15世纪</Literal>
         </Annotation>
-        <ObjectProperty IRI="#appliedIn"/>
-        <NamedIndividual IRI="#Post-castingProcessing"/>
-        <NamedIndividual IRI="#Round_Ding_No._1"/>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#PanlongchengSite_Huangpi_Hubei"/>
+        <NamedIndividual IRI="#MiddleShang"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2409,12 +2697,26 @@
         </Annotation>
         <ObjectProperty IRI="#appliedIn"/>
         <NamedIndividual IRI="#Post-castingProcessing"/>
-        <NamedIndividual IRI="#Lijiatan_Zun,_Wushan,_Chongqing"/>
+        <NamedIndividual IRI="#Lijiatan_Zun_from_Wushan_Chongqing"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">铸后打磨（保留垂直披缝）</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#appliedIn"/>
+        <NamedIndividual IRI="#Post-castingProcessing"/>
+        <NamedIndividual IRI="#Round_Ding_No._1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#QianzhuangSite_Pinglu_Shanxi"/>
+        <NamedIndividual IRI="#ErligangUpperPhaseII"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Qianzhuang_Lei"/>
-        <NamedIndividual IRI="#Qianzhuang_Site,_Pinglu,_Shanxi"/>
+        <NamedIndividual IRI="#QianzhuangSite_Pinglu_Shanxi"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2474,6 +2776,24 @@
     <ObjectPropertyAssertion>
         <Annotation>
             <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">底部浇不足孔洞（部分补缀）</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#appliedIn"/>
+        <NamedIndividual IRI="#RepairCasting"/>
+        <NamedIndividual IRI="#Lijiatan_Zun_from_Wushan_Chongqing"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">盖纽与器盖接合处修补痕迹</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#appliedIn"/>
+        <NamedIndividual IRI="#RepairCasting"/>
+        <NamedIndividual IRI="#Luoshan_Mangzhang_Owl-shaped_You"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
             <Literal xml:lang="zh">下腹三处补铸痕迹（对应内壁可见）</Literal>
         </Annotation>
         <ObjectProperty IRI="#appliedIn"/>
@@ -2488,26 +2808,12 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#appliedIn"/>
         <NamedIndividual IRI="#RepairCasting"/>
-        <NamedIndividual IRI="#Feijia-he_Zun,_Yueyang"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#appliedIn"/>
-        <NamedIndividual IRI="#RepairCasting"/>
-        <NamedIndividual IRI="#Lijiatan_Zun,_Wushan,_Chongqing"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">盖纽与器盖接合处修补痕迹</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#appliedIn"/>
-        <NamedIndividual IRI="#RepairCasting"/>
-        <NamedIndividual IRI="#Mangzhang_Owl-shaped_You,_Luoshan"/>
+        <NamedIndividual IRI="#Yueyang_Feijia-he_Zun"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Round_Ding_No._1"/>
-        <NamedIndividual IRI="#Qianzhuang_Site,_Pinglu,_Shanxi"/>
+        <NamedIndividual IRI="#QianzhuangSite_Pinglu_Shanxi"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2552,8 +2858,50 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen_Yunxi"/>
+        <NamedIndividual IRI="#Guandimiao_Village_Tumen_Town_Yunxi_County_Shiyan_Hubei"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">凹线分界的乳钉雷纹，高浮雕三兽首</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDecorationType"/>
+        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen_Yunxi"/>
+        <NamedIndividual IRI="#CloudThunder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">涡纹条带（肩部）</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDecorationType"/>
+        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen_Yunxi"/>
+        <NamedIndividual IRI="#Eddy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">圈足截断，局部裂纹（应力裂纹）</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDefect"/>
+        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen_Yunxi"/>
+        <NamedIndividual IRI="#StressCrack"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeFrom"/>
+        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen_Yunxi"/>
+        <NamedIndividual IRI="#TinLeadBronze"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#producedUsing"/>
+        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen_Yunxi"/>
+        <NamedIndividual IRI="#One-timeCasting"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Shu_Sizi_Ding"/>
-        <NamedIndividual IRI="#Circular_sacrificial_pit_at_Hougang,_Gaolouzhuang,_Anyang,_Henan"/>
+        <NamedIndividual IRI="#Circular_sacrificial_pit_at_Hougang-Gaolouzhuang-Anyang-Henan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2577,7 +2925,7 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Simuwu_Square_Ding"/>
-        <NamedIndividual IRI="#North_Wuguan_Site,_Anyang,_Henan"/>
+        <NamedIndividual IRI="#North_Wuguan_Site_Anyang_Henan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2608,9 +2956,18 @@
         <NamedIndividual IRI="#One-timeCasting"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">约公元前1100年</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#SubuTun_Yidu_Shandong"/>
+        <NamedIndividual IRI="#YinxuPhaseIV"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Suspended-Bell_Gui"/>
-        <NamedIndividual IRI="#Taohuazhuang,_Shilou,_Shanxi"/>
+        <NamedIndividual IRI="#Taohuazhuang_Shilou_Shanxi"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#hasDecorationType"/>
@@ -2628,13 +2985,134 @@
         <NamedIndividual IRI="#One-timeCasting"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Taixi_Gaocheng_Hebei"/>
+        <NamedIndividual IRI="#ErligangUpper"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">武丁时期</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#TanheliSite_Huangcai_Ningxiang_Hunan"/>
+        <NamedIndividual IRI="#YinxuPhaseII"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Taohuazhuang_Shilou_Shanxi"/>
+        <NamedIndividual IRI="#YinxuPhaseII"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">约公元前1250-1192年</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Tomb1004_North_Wuguan_Anyang_Henan"/>
+        <NamedIndividual IRI="#YinxuPhaseII"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Tomb1_at_Lijiazui_Panlongcheng_Huangpi"/>
+        <NamedIndividual IRI="#ErligangUpper"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">武丁时期，前1250-1192</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Tomb54_Liulige_Huixian_Henan"/>
+        <NamedIndividual IRI="#YinxuPhaseII"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">约公元前1250-1192年</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Tomb5_Xiaotun_Anyang_Henan"/>
+        <NamedIndividual IRI="#YinxuPhaseII"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">武丁时期</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#TombM1_Houli_Village_Mangzhang_Luoshan_Henan"/>
+        <NamedIndividual IRI="#YinxuPhaseII"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">廪辛时期，前1150左右</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#TombM1_JingjieVillage_Lingshi_Shanxi"/>
+        <NamedIndividual IRI="#YinxuPhaseIII"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#TombXDM_at_Dayangzhou_Xingan_Jiangxi"/>
+        <NamedIndividual IRI="#YinxuPhaseIII"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#TombXDM_at_Dayangzhou_Xingan_Jiangxi"/>
+        <NamedIndividual IRI="#YinxuPhaseIV"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">武丁时期</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Tomb_at_Xiaonanzhang_Village_Wen_County_Henan"/>
+        <NamedIndividual IRI="#YinxuPhaseII"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Wen_County_Xifang_Ding"/>
+        <NamedIndividual IRI="#Tomb_at_Xiaonanzhang_Village_Wen_County_Henan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">鸟纹（口沿）+大兽面纹（腹部）</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDecorationType"/>
+        <NamedIndividual IRI="#Wen_County_Xifang_Ding"/>
+        <NamedIndividual IRI="#Taotie"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">腹部棱脊局部轻微错位</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDefect"/>
+        <NamedIndividual IRI="#Wen_County_Xifang_Ding"/>
+        <NamedIndividual IRI="#Distortion"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeFrom"/>
+        <NamedIndividual IRI="#Wen_County_Xifang_Ding"/>
+        <NamedIndividual IRI="#TinLeadBronze"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#producedUsing"/>
+        <NamedIndividual IRI="#Wen_County_Xifang_Ding"/>
+        <NamedIndividual IRI="#One-timeCasting"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <Annotation>
             <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
             <Literal xml:lang="zh">商早期（二里岗上层）</Literal>
         </Annotation>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Whorl-pattern_Stemmed_Yu"/>
-        <NamedIndividual IRI="#Erligang_Site,_Zhengzhou"/>
+        <NamedIndividual IRI="#ErligangSite_Zhengzhou"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2651,9 +3129,32 @@
         <NamedIndividual IRI="#SeparateCasting"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Xiangyang_Hui_Ethnic_Food_Factory_Zhengzhou_Henan"/>
+        <NamedIndividual IRI="#ErligangUpper"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">约公元前1250年</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Xiaomintun_Bronze_Foundry_Site_Yinxu_Anyang_Henan"/>
+        <NamedIndividual IRI="#YinxuPhaseII"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">中商中晚期</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#belongsToPeriod"/>
+        <NamedIndividual IRI="#Xindian_Zaoyang_Hubei"/>
+        <NamedIndividual IRI="#MiddleShang"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Xindian_Zun_from_Zaoyang"/>
-        <NamedIndividual IRI="#Xindian,_Zaoyang,_Hubei"/>
+        <NamedIndividual IRI="#Xindian_Zaoyang_Hubei"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2698,7 +3199,7 @@
         </Annotation>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Xingan_Bu-modified_Ding"/>
-        <NamedIndividual IRI="#Tomb_XDM_at_Dayangzhou,_Xingan,_Jiangxi"/>
+        <NamedIndividual IRI="#TombXDM_at_Dayangzhou_Xingan_Jiangxi"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2735,7 +3236,7 @@
         </Annotation>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Xingan_Tiger-legged_Ding"/>
-        <NamedIndividual IRI="#Tomb_XDM_at_Dayangzhou,_Xingan,_Jiangxi"/>
+        <NamedIndividual IRI="#TombXDM_at_Dayangzhou_Xingan_Jiangxi"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2772,7 +3273,7 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Yachou_Square_Gui"/>
-        <NamedIndividual IRI="#Subu_Tun,_Yidu,_Shandong"/>
+        <NamedIndividual IRI="#SubuTun_Yidu_Shandong"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#hasDecorationType"/>
@@ -2792,7 +3293,7 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Yachou_Square_Zun"/>
-        <NamedIndividual IRI="#Subu_Tun,_Yidu,_Shandong"/>
+        <NamedIndividual IRI="#SubuTun_Yidu_Shandong"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#hasDecorationType"/>
@@ -2840,8 +3341,18 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#You_M5-829"/>
+        <NamedIndividual IRI="#Tomb5_Xiaotun_Anyang_Henan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#madeFrom"/>
+        <NamedIndividual IRI="#You_M5-829"/>
+        <NamedIndividual IRI="#TinBronze"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Yue_from_the_tomb_of_Fu_Hao"/>
-        <NamedIndividual IRI="#Tomb_5,_Xiaotun,_Anyang,_Henan"/>
+        <NamedIndividual IRI="#Tomb5_Xiaotun_Anyang_Henan"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2861,6 +3372,65 @@
         <ObjectProperty IRI="#producedUsing"/>
         <NamedIndividual IRI="#Yue_from_the_tomb_of_Fu_Hao"/>
         <NamedIndividual IRI="#One-timeCasting"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#excavatedFrom"/>
+        <NamedIndividual IRI="#Yueyang_Feijia-he_Zun"/>
+        <NamedIndividual IRI="#Feijia_River_Yueyang_Hunan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">肩部：三牺首（牛头形）+三伏卧鸟饰+夔龙纹带；</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDecorationType"/>
+        <NamedIndividual IRI="#Yueyang_Feijia-he_Zun"/>
+        <NamedIndividual IRI="#Kuilong"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">腹部：高浮雕含体散裂式兽面纹；圈足：浅浮雕半散裂式兽面纹</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDecorationType"/>
+        <NamedIndividual IRI="#Yueyang_Feijia-he_Zun"/>
+        <NamedIndividual IRI="#Taotie"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">口沿气孔</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDefect"/>
+        <NamedIndividual IRI="#Yueyang_Feijia-he_Zun"/>
+        <NamedIndividual IRI="#GasPorosity"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">牺首冠饰缩孔/浇不足</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDefect"/>
+        <NamedIndividual IRI="#Yueyang_Feijia-he_Zun"/>
+        <NamedIndividual IRI="#ShortRun"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">牺首冠饰缩孔/浇不足</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#hasDefect"/>
+        <NamedIndividual IRI="#Yueyang_Feijia-he_Zun"/>
+        <NamedIndividual IRI="#ShrinkageCavity"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">牺首后铸</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#producedUsing"/>
+        <NamedIndividual IRI="#Yueyang_Feijia-he_Zun"/>
+        <NamedIndividual IRI="#SeparateCasting"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2890,47 +3460,9 @@
         <NamedIndividual IRI="#SeparateCasting"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Baijiazhuang,_Zhengzhou,_Henan"/>
-        <NamedIndividual IRI="#ErligangUpper"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">约公元前1100-1046年</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Circular_sacrificial_pit_at_Hougang,_Gaolouzhuang,_Anyang,_Henan"/>
-        <NamedIndividual IRI="#YinxuPhaseIII"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">商中期</Literal>
-        </Annotation>
         <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Ding-H1:2"/>
-        <NamedIndividual IRI="#Zhengzhou_Henan_Provence"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#madeFrom"/>
-        <NamedIndividual IRI="#Ding-H1:2"/>
-        <NamedIndividual IRI="#TinBronze"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Dou-M5:744"/>
-        <NamedIndividual IRI="#Tomb_5,_Xiaotun,_Anyang,_Henan"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#madeFrom"/>
-        <NamedIndividual IRI="#Dou-M5:744"/>
-        <NamedIndividual IRI="#TinBronze"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan"/>
-        <NamedIndividual IRI="#Yue’er_River,_Zhuzhai,_Funan,_Anhui"/>
+        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
+        <NamedIndividual IRI="#Yue’er_River_Zhuzhai_Funan_Anhui"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -2938,7 +3470,7 @@
             <Literal xml:lang="zh">三层花工艺：高浮雕虎纹+阴线云雷地纹</Literal>
         </Annotation>
         <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan"/>
+        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
         <NamedIndividual IRI="#CloudThunder"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
@@ -2947,7 +3479,7 @@
             <Literal xml:lang="zh">喇叭口，高圈足，肩部三龙首，腹部双虎食人纹+兽面纹</Literal>
         </Annotation>
         <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan"/>
+        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
         <NamedIndividual IRI="#Taotie"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
@@ -2957,7 +3489,7 @@
 三层花工艺：高浮雕虎纹+阴线云雷地纹</Literal>
         </Annotation>
         <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan"/>
+        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
         <NamedIndividual IRI="#Tiger"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
@@ -2966,12 +3498,12 @@
             <Literal xml:lang="zh">虎口部范线错位</Literal>
         </Annotation>
         <ObjectProperty IRI="#hasDefect"/>
-        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan"/>
+        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
         <NamedIndividual IRI="#MoldMisalignment"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#madeFrom"/>
-        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan"/>
+        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
         <NamedIndividual IRI="#TinLeadBronze"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
@@ -2980,260 +3512,13 @@
             <Literal xml:lang="zh">龙首、虎首先铸，再与器身铸接</Literal>
         </Annotation>
         <ObjectProperty IRI="#producedUsing"/>
-        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan"/>
-        <NamedIndividual IRI="#SeparateCasting"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Duling_Street,_Zhengzhou"/>
-        <NamedIndividual IRI="#ErligangUpper"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Erligang_Site,_Zhengzhou"/>
-        <NamedIndividual IRI="#ErligangLower"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Erligang_Site,_Zhengzhou"/>
-        <NamedIndividual IRI="#ErligangUpper"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">商代殷墟二期（约公元前1250年）</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art,_Cologne"/>
-        <NamedIndividual IRI="#Yinxu,_Anyang,_Henan"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">长方体，庑殿顶盖，腹部饰阴线兽面纹</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art,_Cologne"/>
-        <NamedIndividual IRI="#Taotie"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">分范错位：兽面纹两侧眼睛大小不一</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDefect"/>
-        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art,_Cologne"/>
-        <NamedIndividual IRI="#MoldMisalignment"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#madeFrom"/>
-        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art,_Cologne"/>
-        <NamedIndividual IRI="#TinLeadBronze"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#producedUsing"/>
-        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art,_Cologne"/>
-        <NamedIndividual IRI="#One-timeCasting"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Feijia-he_Zun,_Yueyang"/>
-        <NamedIndividual IRI="#Feijia_River,_Yueyang,_Hunan"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">肩部：三牺首（牛头形）+三伏卧鸟饰+夔龙纹带；</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Feijia-he_Zun,_Yueyang"/>
-        <NamedIndividual IRI="#Kuilong"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">腹部：高浮雕含体散裂式兽面纹；圈足：浅浮雕半散裂式兽面纹</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Feijia-he_Zun,_Yueyang"/>
-        <NamedIndividual IRI="#Taotie"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">口沿气孔</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDefect"/>
-        <NamedIndividual IRI="#Feijia-he_Zun,_Yueyang"/>
-        <NamedIndividual IRI="#GasPorosity"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">牺首冠饰缩孔/浇不足</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDefect"/>
-        <NamedIndividual IRI="#Feijia-he_Zun,_Yueyang"/>
-        <NamedIndividual IRI="#ShortRun"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">牺首冠饰缩孔/浇不足</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDefect"/>
-        <NamedIndividual IRI="#Feijia-he_Zun,_Yueyang"/>
-        <NamedIndividual IRI="#ShrinkageCavity"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">牺首后铸</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#producedUsing"/>
-        <NamedIndividual IRI="#Feijia-he_Zun,_Yueyang"/>
-        <NamedIndividual IRI="#SeparateCasting"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">中商中晚期</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Feijia_River,_Yueyang,_Hunan"/>
-        <NamedIndividual IRI="#MiddleShang"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">约公元前13世纪</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Guandimiao_Village,_Tumen_Town,_Yunxi_County,_Shiyan,_Hubei"/>
-        <NamedIndividual IRI="#YinxuPhaseII"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Gui-M1:5"/>
-        <NamedIndividual IRI="#Tomb_1_at_Lijiazui,_Panlongcheng,_Huangpi"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#producedUsing"/>
-        <NamedIndividual IRI="#Gui-M1:5"/>
-        <NamedIndividual IRI="#SeparateCasting"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Gui-M5:848"/>
-        <NamedIndividual IRI="#Tomb_5,_Xiaotun,_Anyang,_Henan"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#madeFrom"/>
-        <NamedIndividual IRI="#Gui-M5:848"/>
-        <NamedIndividual IRI="#TinBronze"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Jia-M2:19"/>
-        <NamedIndividual IRI="#Panlongcheng_Site,_Huangpi,_Hubei"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#madeFrom"/>
-        <NamedIndividual IRI="#Jia-M2:19"/>
-        <NamedIndividual IRI="#TinLeadBronze"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Jia-M5:781"/>
-        <NamedIndividual IRI="#Tomb_5,_Xiaotun,_Anyang,_Henan"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#madeFrom"/>
-        <NamedIndividual IRI="#Jia-M5:781"/>
-        <NamedIndividual IRI="#TinBronze"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Li(Lingshi_Shanxi)"/>
-        <NamedIndividual IRI="#Tomb_M1,_Jingjie_Village,_Lingshi,_Shanxi"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#madeFrom"/>
-        <NamedIndividual IRI="#Li(Lingshi_Shanxi)"/>
-        <NamedIndividual IRI="#TinLeadBronze"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">中商中晚期</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Lijiatan,_Wushan,_Chongqing"/>
-        <NamedIndividual IRI="#MiddleShang"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Lijiatan_Zun,_Wushan,_Chongqing"/>
-        <NamedIndividual IRI="#Lijiatan,_Wushan,_Chongqing"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">腹部：高浮雕散裂式兽面纹+变体夔龙纹，云雷纹衬地；</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Lijiatan_Zun,_Wushan,_Chongqing"/>
-        <NamedIndividual IRI="#CloudThunder"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">肩部：三牺首（羊头形）+三片状伏卧鸟饰+浅浮雕夔龙纹带；腹部：高浮雕散裂式兽面纹+变体夔龙纹，云雷纹衬地；圈足：高浮雕半散裂式兽面纹+夔龙纹</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Lijiatan_Zun,_Wushan,_Chongqing"/>
-        <NamedIndividual IRI="#Kuilong"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">腹部：高浮雕散裂式兽面纹+变体夔龙纹，云雷纹衬地；圈足：高浮雕半散裂式兽面纹+夔龙纹</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Lijiatan_Zun,_Wushan,_Chongqing"/>
-        <NamedIndividual IRI="#Taotie"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">底部浇不足孔洞</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDefect"/>
-        <NamedIndividual IRI="#Lijiatan_Zun,_Wushan,_Chongqing"/>
-        <NamedIndividual IRI="#ShortRun"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">牺首开裂、鸟饰残损</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDefect"/>
-        <NamedIndividual IRI="#Lijiatan_Zun,_Wushan,_Chongqing"/>
-        <NamedIndividual IRI="#StressCrack"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">牺首后铸</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#producedUsing"/>
-        <NamedIndividual IRI="#Lijiatan_Zun,_Wushan,_Chongqing"/>
+        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
         <NamedIndividual IRI="#SeparateCasting"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Linked-bead_(or_Bead-chain)_pattern_Lei"/>
-        <NamedIndividual IRI="#Taixi,_Gaocheng,_Hebei"/>
+        <NamedIndividual IRI="#Taixi_Gaocheng_Hebei"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -3259,64 +3544,9 @@
         <NamedIndividual IRI="#One-timeCasting"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Linzheyu_Village,_Baode_County"/>
-        <NamedIndividual IRI="#LateShang"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Mangzhang_Owl-shaped_You,_Luoshan"/>
-        <NamedIndividual IRI="#Tomb_M1,_Houli_Village,_Mangzhang,_Luoshan,_Henan"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">高浮雕鸮首+羽翼龙纹</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Mangzhang_Owl-shaped_You,_Luoshan"/>
-        <NamedIndividual IRI="#CoiledDragon"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal>Sn≈10-15%</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#madeFrom"/>
-        <NamedIndividual IRI="#Mangzhang_Owl-shaped_You,_Luoshan"/>
-        <NamedIndividual IRI="#TinLeadBronze"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">提梁、盖纽与器身组合</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#producedUsing"/>
-        <NamedIndividual IRI="#Mangzhang_Owl-shaped_You,_Luoshan"/>
-        <NamedIndividual IRI="#SeparateCasting"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">约公元前1100-1046年</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#North_Wuguan_Site,_Anyang,_Henan"/>
-        <NamedIndividual IRI="#YinxuPhaseIII"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">商中期（约公元前15世纪）</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Panlongcheng_Site,_Huangpi,_Hubei"/>
-        <NamedIndividual IRI="#MiddleShang"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#excavatedFrom"/>
         <NamedIndividual IRI="#Pi-he_Zun_from_Liu’an"/>
-        <NamedIndividual IRI="#Pi_River,_Liu’an,_Anhui"/>
+        <NamedIndividual IRI="#PiRiver_Liu’an_Anhui"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -3369,254 +3599,8 @@
             <Literal xml:lang="zh">中商中晚期</Literal>
         </Annotation>
         <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Pi_River,_Liu’an,_Anhui"/>
+        <NamedIndividual IRI="#PiRiver_Liu’an_Anhui"/>
         <NamedIndividual IRI="#MiddleShang"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Qianzhuang_Site,_Pinglu,_Shanxi"/>
-        <NamedIndividual IRI="#ErligangUpperPhaseII"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen,_Yunxi"/>
-        <NamedIndividual IRI="#Guandimiao_Village,_Tumen_Town,_Yunxi_County,_Shiyan,_Hubei"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">凹线分界的乳钉雷纹</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen,_Yunxi"/>
-        <NamedIndividual IRI="#CloudThunder"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">涡纹条带（肩部）</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen,_Yunxi"/>
-        <NamedIndividual IRI="#Eddy"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">圈足截断，局部裂纹（应力裂纹）</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDefect"/>
-        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen,_Yunxi"/>
-        <NamedIndividual IRI="#StressCrack"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#madeFrom"/>
-        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen,_Yunxi"/>
-        <NamedIndividual IRI="#TinLeadBronze"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#producedUsing"/>
-        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen,_Yunxi"/>
-        <NamedIndividual IRI="#One-timeCasting"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">约公元前1100年</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Subu_Tun,_Yidu,_Shandong"/>
-        <NamedIndividual IRI="#YinxuPhaseIV"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Taixi,_Gaocheng,_Hebei"/>
-        <NamedIndividual IRI="#ErligangUpper"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">武丁时期</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Tanheli_Site,_Huangcai,_Ningxiang,_Hunan"/>
-        <NamedIndividual IRI="#YinxuPhaseII"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Taohuazhuang,_Shilou,_Shanxi"/>
-        <NamedIndividual IRI="#YinxuPhaseII"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">约公元前1250-1192年</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Tomb_1004,_North_Wuguan,_Anyang,_Henan"/>
-        <NamedIndividual IRI="#YinxuPhaseII"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Tomb_1_at_Lijiazui,_Panlongcheng,_Huangpi"/>
-        <NamedIndividual IRI="#ErligangUpper"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">约公元前1250-1192年</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Tomb_5,_Xiaotun,_Anyang,_Henan"/>
-        <NamedIndividual IRI="#YinxuPhaseII"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">武丁时期，前1250-1192</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Tomb_54,_Liulige,_Huixian,_Henan"/>
-        <NamedIndividual IRI="#YinxuPhaseII"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">武丁时期</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Tomb_M1,_Houli_Village,_Mangzhang,_Luoshan,_Henan"/>
-        <NamedIndividual IRI="#YinxuPhaseII"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">廪辛时期，前1150左右</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Tomb_M1,_Jingjie_Village,_Lingshi,_Shanxi"/>
-        <NamedIndividual IRI="#YinxuPhaseIII"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">祖甲时期，前1191-1148</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Tomb_XDM_at_Dayangzhou,_Xingan,_Jiangxi"/>
-        <NamedIndividual IRI="#YinxuPhaseIII"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">前1050年左右</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Tomb_XDM_at_Dayangzhou,_Xingan,_Jiangxi"/>
-        <NamedIndividual IRI="#YinxuPhaseIV"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">武丁时期</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Tomb_at_Xiaonanzhang_Village,_Wen_County,_Henan"/>
-        <NamedIndividual IRI="#YinxuPhaseII"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Xiangyang_Hui_Ethnic_Food_Factory,_Zhengzhou,_Henan"/>
-        <NamedIndividual IRI="#ErligangUpper"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">约公元前1250年</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Xiaomintun_Bronze_Foundry_Site,_Yinxu,_Anyang,_Henan"/>
-        <NamedIndividual IRI="#YinxuPhaseII"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Xiaomintun_Jue,_Anyang"/>
-        <NamedIndividual IRI="#Xiaomintun_Bronze_Foundry_Site,_Yinxu,_Anyang,_Henan"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal>卵形腹，菌状柱，三角锥足，素面或简单弦纹</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Xiaomintun_Jue,_Anyang"/>
-        <NamedIndividual IRI="#StringMotif"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">含锡量约12-15%</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#madeFrom"/>
-        <NamedIndividual IRI="#Xiaomintun_Jue,_Anyang"/>
-        <NamedIndividual IRI="#TinBronze"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#producedUsing"/>
-        <NamedIndividual IRI="#Xiaomintun_Jue,_Anyang"/>
-        <NamedIndividual IRI="#One-timeCasting"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#Xifang_Ding,_Wen_County"/>
-        <NamedIndividual IRI="#Tomb_at_Xiaonanzhang_Village,_Wen_County,_Henan"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">鸟纹（口沿）+大兽面纹（腹部）</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDecorationType"/>
-        <NamedIndividual IRI="#Xifang_Ding,_Wen_County"/>
-        <NamedIndividual IRI="#Taotie"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">腹部棱脊局部轻微错位</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#hasDefect"/>
-        <NamedIndividual IRI="#Xifang_Ding,_Wen_County"/>
-        <NamedIndividual IRI="#Distortion"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#madeFrom"/>
-        <NamedIndividual IRI="#Xifang_Ding,_Wen_County"/>
-        <NamedIndividual IRI="#TinLeadBronze"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#producedUsing"/>
-        <NamedIndividual IRI="#Xifang_Ding,_Wen_County"/>
-        <NamedIndividual IRI="#One-timeCasting"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal xml:lang="zh">中商中晚期</Literal>
-        </Annotation>
-        <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Xindian,_Zaoyang,_Hubei"/>
-        <NamedIndividual IRI="#MiddleShang"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#excavatedFrom"/>
-        <NamedIndividual IRI="#You-M5:829"/>
-        <NamedIndividual IRI="#Tomb_5,_Xiaotun,_Anyang,_Henan"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#madeFrom"/>
-        <NamedIndividual IRI="#You-M5:829"/>
-        <NamedIndividual IRI="#TinBronze"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <Annotation>
@@ -3624,7 +3608,7 @@
             <Literal xml:lang="zh">约公元前1300年</Literal>
         </Annotation>
         <ObjectProperty IRI="#belongsToPeriod"/>
-        <NamedIndividual IRI="#Yue’er_River,_Zhuzhai,_Funan,_Anhui"/>
+        <NamedIndividual IRI="#Yue’er_River_Zhuzhai_Funan_Anhui"/>
         <NamedIndividual IRI="#YinxuPhaseI"/>
     </ObjectPropertyAssertion>
     <DataPropertyAssertion>
@@ -3663,6 +3647,69 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">86.4</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">通高约16-18 cm</Literal>
+        </Annotation>
+        <DataProperty IRI="#artifactHeight"/>
+        <NamedIndividual IRI="#Anyang_Xiaomintun_Jue"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">17</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="zh">含锡量约12-15%</Literal>
+        </Annotation>
+        <DataProperty IRI="#tinPercentage"/>
+        <NamedIndividual IRI="#Anyang_Xiaomintun_Jue"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">12</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#copperPercentage"/>
+        <NamedIndividual IRI="#Ding_H1-2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">87.73</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leadPercentage"/>
+        <NamedIndividual IRI="#Ding_H1-2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.1</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#tinPercentage"/>
+        <NamedIndividual IRI="#Ding_H1-2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">8</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#copperPercentage"/>
+        <NamedIndividual IRI="#Dou_M5-744"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">81.73</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leadPercentage"/>
+        <NamedIndividual IRI="#Dou_M5-744"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.25</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#tinPercentage"/>
+        <NamedIndividual IRI="#Dou_M5-744"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">16.58</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#artifactHeight"/>
+        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art_Cologne"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">26.5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leadPercentage"/>
+        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art_Cologne"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">8</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#tinPercentage"/>
+        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art_Cologne"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">15</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
         <DataProperty IRI="#artifactHeight"/>
         <NamedIndividual IRI="#Four-Ram_Square_Zun_from_Ningxiang"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">58.3</Literal>
@@ -3692,9 +3739,69 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">43</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
+        <DataProperty IRI="#copperPercentage"/>
+        <NamedIndividual IRI="#Gui_M5-848"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">77.69</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leadPercentage"/>
+        <NamedIndividual IRI="#Gui_M5-848"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.61</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#tinPercentage"/>
+        <NamedIndividual IRI="#Gui_M5-848"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">15.88</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#copperPercentage"/>
+        <NamedIndividual IRI="#Jia_M2-19"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">81.82</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leadPercentage"/>
+        <NamedIndividual IRI="#Jia_M2-19"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">6.78</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#tinPercentage"/>
+        <NamedIndividual IRI="#Jia_M2-19"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">8.41</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#copperPercentage"/>
+        <NamedIndividual IRI="#Jia_M5-781"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">75.24</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#tinPercentage"/>
+        <NamedIndividual IRI="#Jia_M5-781"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">18.32</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
         <DataProperty IRI="#artifactHeight"/>
         <NamedIndividual IRI="#Kui-dragon_pattern_Pan"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">10.5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#copperPercentage"/>
+        <NamedIndividual IRI="#Li-Lingshi_Shanxi"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">77.72</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leadPercentage"/>
+        <NamedIndividual IRI="#Li-Lingshi_Shanxi"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">5.49</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#tinPercentage"/>
+        <NamedIndividual IRI="#Li-Lingshi_Shanxi"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">15.59</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#artifactHeight"/>
+        <NamedIndividual IRI="#Lijiatan_Zun_from_Wushan_Chongqing"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">43.6</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#artifactHeight"/>
@@ -3709,6 +3816,11 @@
         <DataProperty IRI="#artifactHeight"/>
         <NamedIndividual IRI="#Liulige_Jue_from_Huixian"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">20</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#artifactHeight"/>
+        <NamedIndividual IRI="#Luoshan_Mangzhang_Owl-shaped_You"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">30</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#artifactHeight"/>
@@ -3744,6 +3856,21 @@
         <DataProperty IRI="#artifactHeight"/>
         <NamedIndividual IRI="#Round_Ding_No._1"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">73</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#artifactHeight"/>
+        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen_Yunxi"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">25</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leadPercentage"/>
+        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen_Yunxi"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">13.3</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#tinPercentage"/>
+        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen_Yunxi"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">8.1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#artifactHeight"/>
@@ -3784,6 +3911,11 @@
         <DataProperty IRI="#weight"/>
         <NamedIndividual IRI="#Suspended-Bell_Gui"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">12</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#artifactHeight"/>
+        <NamedIndividual IRI="#Wen_County_Xifang_Ding"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">23.5</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#artifactHeight"/>
@@ -3868,144 +4000,54 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">2.395</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
+        <DataProperty IRI="#copperPercentage"/>
+        <NamedIndividual IRI="#You_M5-829"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">77.29</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#leadPercentage"/>
+        <NamedIndividual IRI="#You_M5-829"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.34</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#tinPercentage"/>
+        <NamedIndividual IRI="#You_M5-829"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">17.01</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#artifactHeight"/>
+        <NamedIndividual IRI="#Yueyang_Feijia-he_Zun"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">56.5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
         <DataProperty IRI="#artifactHeight"/>
         <NamedIndividual IRI="#Zun_from_the_Tokyo_National_Museum_Collection"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">65.5</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#copperPercentage"/>
-        <NamedIndividual IRI="#Ding-H1:2"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">87.73</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#leadPercentage"/>
-        <NamedIndividual IRI="#Ding-H1:2"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.1</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#tinPercentage"/>
-        <NamedIndividual IRI="#Ding-H1:2"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">8</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#copperPercentage"/>
-        <NamedIndividual IRI="#Dou-M5:744"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">81.73</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#leadPercentage"/>
-        <NamedIndividual IRI="#Dou-M5:744"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.25</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#tinPercentage"/>
-        <NamedIndividual IRI="#Dou-M5:744"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">16.58</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
         <DataProperty IRI="#artifactHeight"/>
-        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan"/>
+        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">50.5</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#copperPercentage"/>
-        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan"/>
+        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">78.6</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#leadPercentage"/>
-        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan"/>
+        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">6.2</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#tinPercentage"/>
-        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan"/>
+        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">15.2</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#weight"/>
-        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan"/>
+        <NamedIndividual IRI="#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">20</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#artifactHeight"/>
-        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art,_Cologne"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">26.5</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#leadPercentage"/>
-        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art,_Cologne"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">8</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#tinPercentage"/>
-        <NamedIndividual IRI="#Fang_Yi_in_the_Museum_of_East_Asian_Art,_Cologne"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">15</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#artifactHeight"/>
-        <NamedIndividual IRI="#Feijia-he_Zun,_Yueyang"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">56.5</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#copperPercentage"/>
-        <NamedIndividual IRI="#Gui-M5:848"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">77.69</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#leadPercentage"/>
-        <NamedIndividual IRI="#Gui-M5:848"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.61</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#tinPercentage"/>
-        <NamedIndividual IRI="#Gui-M5:848"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">15.88</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#copperPercentage"/>
-        <NamedIndividual IRI="#Jia-M2:19"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">81.82</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#leadPercentage"/>
-        <NamedIndividual IRI="#Jia-M2:19"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">6.78</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#tinPercentage"/>
-        <NamedIndividual IRI="#Jia-M2:19"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">8.41</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#copperPercentage"/>
-        <NamedIndividual IRI="#Jia-M5:781"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">75.24</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#tinPercentage"/>
-        <NamedIndividual IRI="#Jia-M5:781"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">18.32</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#copperPercentage"/>
-        <NamedIndividual IRI="#Li(Lingshi_Shanxi)"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">77.72</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#leadPercentage"/>
-        <NamedIndividual IRI="#Li(Lingshi_Shanxi)"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">5.49</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#tinPercentage"/>
-        <NamedIndividual IRI="#Li(Lingshi_Shanxi)"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">15.59</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#artifactHeight"/>
-        <NamedIndividual IRI="#Lijiatan_Zun,_Wushan,_Chongqing"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">43.6</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#artifactHeight"/>
@@ -4014,57 +4056,8 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#artifactHeight"/>
-        <NamedIndividual IRI="#Mangzhang_Owl-shaped_You,_Luoshan"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">30</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#artifactHeight"/>
         <NamedIndividual IRI="#Pi-he_Zun_from_Liu’an"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">70</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#artifactHeight"/>
-        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen,_Yunxi"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">25</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#leadPercentage"/>
-        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen,_Yunxi"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">13.3</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#tinPercentage"/>
-        <NamedIndividual IRI="#Shang-period_Bronze_Bu_from_Tumen,_Yunxi"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">8.1</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal>通高约16-18 cm</Literal>
-        </Annotation>
-        <DataProperty IRI="#artifactHeight"/>
-        <NamedIndividual IRI="#Xiaomintun_Jue,_Anyang"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">18</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#artifactHeight"/>
-        <NamedIndividual IRI="#Xifang_Ding,_Wen_County"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">23.5</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#copperPercentage"/>
-        <NamedIndividual IRI="#You-M5:829"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">77.29</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#leadPercentage"/>
-        <NamedIndividual IRI="#You-M5:829"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.34</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#tinPercentage"/>
-        <NamedIndividual IRI="#You-M5:829"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">17.01</Literal>
     </DataPropertyAssertion>
     <FunctionalObjectProperty>
         <ObjectProperty IRI="#madeFrom"/>
@@ -4289,6 +4282,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Anyang_Xiaomintun_Jue</IRI>
+        <Literal xml:lang="en">Xiaomintun Jue, Anyang</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Anyang_Xiaomintun_Jue</IRI>
+        <Literal xml:lang="zh">安阳孝民屯爵</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Awl</IRI>
         <Literal xml:lang="en">Awl</Literal>
     </AnnotationAssertion>
@@ -4321,6 +4324,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#AxleSleeve</IRI>
         <Literal xml:lang="zh">车軎</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Baijiazhuang_Zhengzhou_Henan</IRI>
+        <Literal xml:lang="en">Baijiazhuang, Zhengzhou, Henan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Baijiazhuang_Zhengzhou_Henan</IRI>
+        <Literal xml:lang="zh">河南郑州白家庄</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4529,6 +4542,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Circular_sacrificial_pit_at_Hougang-Gaolouzhuang-Anyang-Henan</IRI>
+        <Literal xml:lang="en">Circular sacrificial pit at Hougang, Gaolouzhuang, Anyang, Henan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Circular_sacrificial_pit_at_Hougang-Gaolouzhuang-Anyang-Henan</IRI>
+        <Literal xml:lang="zh">河南安阳高楼庄后岗圆形祭祀坑</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#CloudThunder</IRI>
         <Literal xml:lang="en">Cloud and Thunder Pattern</Literal>
     </AnnotationAssertion>
@@ -4664,6 +4687,11 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Ding_H1-2</IRI>
+        <Literal xml:lang="zh">鼎(H1:2)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#DispersedShrinkage</IRI>
         <Literal xml:lang="en">Dispersed Shrinkage</Literal>
     </AnnotationAssertion>
@@ -4681,6 +4709,41 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Distortion</IRI>
         <Literal xml:lang="zh">变形</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Dou_FoodVessel</IRI>
+        <Literal xml:lang="en">Stemmed dish</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Dou_FoodVessel</IRI>
+        <Literal xml:lang="en">Dou</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Dou_FoodVessel</IRI>
+        <Literal xml:lang="zh">豆</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Dou_M5-744</IRI>
+        <Literal xml:lang="zh">斗(M5:744)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Dou_WineVessel</IRI>
+        <Literal xml:lang="en">Ladle</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Dou_WineVessel</IRI>
+        <Literal xml:lang="en">Dou</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Dou_WineVessel</IRI>
+        <Literal xml:lang="zh">斗</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4706,6 +4769,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Dui</IRI>
         <Literal xml:lang="zh">敦</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#DulingStreet_Zhengzhou</IRI>
+        <Literal xml:lang="en">Duling Street, Zhengzhou</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#DulingStreet_Zhengzhou</IRI>
+        <Literal xml:lang="zh">郑州杜岭街</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
@@ -4784,6 +4857,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ErligangSite_Zhengzhou</IRI>
+        <Literal xml:lang="en">Erligang Site, Zhengzhou</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ErligangSite_Zhengzhou</IRI>
+        <Literal xml:lang="zh">郑州二里岗遗址</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#ErligangUpper</IRI>
         <Literal xml:lang="en">Erligang Upper</Literal>
     </AnnotationAssertion>
@@ -4843,6 +4926,16 @@
         <Literal xml:lang="zh">多余物残留</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Fang_Yi_in_the_Museum_of_East_Asian_Art_Cologne</IRI>
+        <Literal xml:lang="en">Fang Yi in the Museum of East Asian Art, Cologne</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Fang_Yi_in_the_Museum_of_East_Asian_Art_Cologne</IRI>
+        <Literal xml:lang="zh">科隆东亚艺术博物馆方彝</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#Fangyi</IRI>
         <Literal xml:lang="en">Rectangular covered vessel</Literal>
@@ -4856,6 +4949,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Fangyi</IRI>
         <Literal xml:lang="zh">方彝</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Feijia_River_Yueyang_Hunan</IRI>
+        <Literal xml:lang="en">Feijia River, Yueyang, Hunan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Feijia_River_Yueyang_Hunan</IRI>
+        <Literal xml:lang="zh">湖南岳阳费家河</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4906,6 +5009,21 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Fu</IRI>
         <Literal xml:lang="zh">釜</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Fu_FoodVessel</IRI>
+        <Literal xml:lang="en">Rectangular grain vessel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Fu_FoodVessel</IRI>
+        <Literal>Fu(FoodVessel)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Fu_FoodVessel</IRI>
+        <Literal xml:lang="zh">簠</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -5023,6 +5141,16 @@
         <Literal xml:lang="zh">觚</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Guandimiao_Village_Tumen_Town_Yunxi_County_Shiyan_Hubei</IRI>
+        <Literal xml:lang="en">Guandimiao Village, Tumen Town, Yunxi County, Shiyan, Hubei</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Guandimiao_Village_Tumen_Town_Yunxi_County_Shiyan_Hubei</IRI>
+        <Literal xml:lang="zh">湖北省十堰市郧西县土门镇关帝庙村</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#Gui</IRI>
         <Literal xml:lang="en">Ritual food basin</Literal>
@@ -5036,6 +5164,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Gui</IRI>
         <Literal xml:lang="zh">簋</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Gui_M1-5</IRI>
+        <Literal xml:lang="zh">铜簋(M1:5)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Gui_M5-848</IRI>
+        <Literal xml:lang="zh">簋(M5:848)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -5131,6 +5269,46 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Jia</IRI>
         <Literal xml:lang="zh">斝</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Jia_M2-19</IRI>
+        <Literal xml:lang="zh">斝(M2:19)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Jia_M5-781</IRI>
+        <Literal xml:lang="zh">斝(M5:781)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Jian_WaterVessel</IRI>
+        <Literal xml:lang="en">Large water/mirror basin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Jian_WaterVessel</IRI>
+        <Literal>Jian</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Jian_WaterVessel</IRI>
+        <Literal xml:lang="zh">鉴</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Jian_Weapon</IRI>
+        <Literal xml:lang="en">Sword</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Jian_Weapon</IRI>
+        <Literal>jian</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Jian_Weapon</IRI>
+        <Literal xml:lang="zh">剑</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
@@ -5248,6 +5426,31 @@
         <Literal xml:lang="zh">铅青铜</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Lei_AgriculturalTool</IRI>
+        <Literal xml:lang="en">Lei</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Lei_AgriculturalTool</IRI>
+        <Literal xml:lang="zh">耒</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Lei_RitualVessel</IRI>
+        <Literal xml:lang="en">Large wine jar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Lei_RitualVessel</IRI>
+        <Literal xml:lang="en">Lei</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Lei_RitualVessel</IRI>
+        <Literal xml:lang="zh">罍</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#Li</IRI>
         <Literal xml:lang="en">Tripod cooking vessel</Literal>
@@ -5263,6 +5466,11 @@
         <Literal xml:lang="zh">鬲</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Li-Lingshi_Shanxi</IRI>
+        <Literal xml:lang="zh">鬲（山西灵石）</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#Liang</IRI>
         <Literal xml:lang="en">Standard measure</Literal>
@@ -5276,6 +5484,26 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Liang</IRI>
         <Literal xml:lang="zh">量</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Lijiatan_Wushan_Chongqing</IRI>
+        <Literal xml:lang="en">Lijiatan, Wushan, Chongqing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Lijiatan_Wushan_Chongqing</IRI>
+        <Literal xml:lang="zh">重庆巫山李家滩</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Lijiatan_Zun_from_Wushan_Chongqing</IRI>
+        <Literal xml:lang="en">Lijiatan Zun, Wushan, Chongqing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Lijiatan_Zun_from_Wushan_Chongqing</IRI>
+        <Literal xml:lang="zh">巫山李家滩尊</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
@@ -5304,6 +5532,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Linzheyu_Village_Baode_County</IRI>
+        <Literal xml:lang="en">Linzheyu Village, Baode County</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Linzheyu_Village_Baode_County</IRI>
+        <Literal xml:lang="zh">保德林遮峪村</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Liulige_Jue_from_Huixian</IRI>
         <Literal xml:lang="en">Liulige Jue from Huixian</Literal>
     </AnnotationAssertion>
@@ -5321,6 +5559,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Loop-handled_Hu</IRI>
         <Literal xml:lang="zh">提梁壶</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Luoshan_Mangzhang_Owl-shaped_You</IRI>
+        <Literal xml:lang="en">Mangzhang Owl-shaped You, Luoshan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Luoshan_Mangzhang_Owl-shaped_You</IRI>
+        <Literal xml:lang="zh">罗山蟒张鸮卣</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -5448,6 +5696,16 @@
         <Literal xml:lang="zh">铙</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#North_Wuguan_Site_Anyang_Henan</IRI>
+        <Literal xml:lang="en">North Wuguan Site, Anyang, Henan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#North_Wuguan_Site_Anyang_Henan</IRI>
+        <Literal xml:lang="zh">河南安阳武官北地</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#Nu</IRI>
         <Literal xml:lang="zh">Crossbow trigger</Literal>
@@ -5516,6 +5774,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Pan</IRI>
         <Literal xml:lang="zh">盘</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#PanlongchengSite_Huangpi_Hubei</IRI>
+        <Literal xml:lang="en">Panlongcheng Site, Huangpi, Hubei</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#PanlongchengSite_Huangpi_Hubei</IRI>
+        <Literal xml:lang="zh">湖北黄陂盘龙城遗址</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
@@ -5599,6 +5867,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QianzhuangSite_Pinglu_Shanxi</IRI>
+        <Literal xml:lang="en">QianzhuangSite Pinglu Shanxi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QianzhuangSite_Pinglu_Shanxi</IRI>
+        <Literal xml:lang="zh">山西平陆前庄遗址</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Qianzhuang_Lei</IRI>
         <Literal xml:lang="en">Qianzhuang Lei</Literal>
     </AnnotationAssertion>
@@ -5676,6 +5954,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#SeparateCasting</IRI>
         <Literal xml:lang="zh">分铸法</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Shang-period_Bronze_Bu_from_Tumen_Yunxi</IRI>
+        <Literal xml:lang="en">Shang-period Bronze Bu from Tumen, Yunxi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Shang-period_Bronze_Bu_from_Tumen_Yunxi</IRI>
+        <Literal xml:lang="zh">郧西土门商代铜瓿</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -5879,6 +6167,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#SubuTun_Yidu_Shandong</IRI>
+        <Literal xml:lang="en">Subu Tun, Yidu, Shandong</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#SubuTun_Yidu_Shandong</IRI>
+        <Literal xml:lang="zh">山东益都苏埠屯</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Suspended-Bell_Gui</IRI>
         <Literal xml:lang="en">Suspended-Bell Gui</Literal>
     </AnnotationAssertion>
@@ -5886,6 +6184,36 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Suspended-Bell_Gui</IRI>
         <Literal xml:lang="zh">悬铃簋</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Taixi_Gaocheng_Hebei</IRI>
+        <Literal xml:lang="en">Taixi, Gaocheng, Hebei</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Taixi_Gaocheng_Hebei</IRI>
+        <Literal xml:lang="zh">河北藁城台西</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#TanheliSite_Huangcai_Ningxiang_Hunan</IRI>
+        <Literal xml:lang="en">Tanheli Site, Huangcai, Ningxiang, Hunan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#TanheliSite_Huangcai_Ningxiang_Hunan</IRI>
+        <Literal xml:lang="zh">湖南宁乡黄材炭河里遗址</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Taohuazhuang_Shilou_Shanxi</IRI>
+        <Literal xml:lang="en">Taohuazhuang, Shilou, Shanxi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Taohuazhuang_Shilou_Shanxi</IRI>
+        <Literal xml:lang="zh">山西石楼桃花庄</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -5948,6 +6276,86 @@
         <Literal xml:lang="zh">铅锡（锡铅）青铜</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Tomb1004_North_Wuguan_Anyang_Henan</IRI>
+        <Literal xml:lang="zh">Tomb 1004, North Wuguan, Anyang, Henan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Tomb1004_North_Wuguan_Anyang_Henan</IRI>
+        <Literal xml:lang="zh">河南安阳武官北地1004号墓</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Tomb1_at_Lijiazui_Panlongcheng_Huangpi</IRI>
+        <Literal xml:lang="en">Tomb 1 at Lijiazui, Panlongcheng, Huangpi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Tomb1_at_Lijiazui_Panlongcheng_Huangpi</IRI>
+        <Literal xml:lang="zh">黄坡盘龙城李家咀1号墓</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Tomb54_Liulige_Huixian_Henan</IRI>
+        <Literal xml:lang="en">Tomb 54, Liulige, Huixian, Henan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Tomb54_Liulige_Huixian_Henan</IRI>
+        <Literal xml:lang="zh">河南辉县琉璃阁54号墓</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Tomb5_Xiaotun_Anyang_Henan</IRI>
+        <Literal xml:lang="en">Tomb 5, Xiaotun, Anyang, Henan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Tomb5_Xiaotun_Anyang_Henan</IRI>
+        <Literal xml:lang="zh">河南安阳小屯五号墓</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#TombM1_Houli_Village_Mangzhang_Luoshan_Henan</IRI>
+        <Literal xml:lang="en">Tomb M1, Houli Village, Mangzhang, Luoshan, Henan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#TombM1_Houli_Village_Mangzhang_Luoshan_Henan</IRI>
+        <Literal xml:lang="zh">河南罗山蟒张后李村M1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#TombM1_JingjieVillage_Lingshi_Shanxi</IRI>
+        <Literal xml:lang="en">Tomb M1, Jingjie Village, Lingshi, Shanxi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#TombM1_JingjieVillage_Lingshi_Shanxi</IRI>
+        <Literal xml:lang="zh">山西灵石旌介村M1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#TombXDM_at_Dayangzhou_Xingan_Jiangxi</IRI>
+        <Literal xml:lang="en">Tomb XDM at Dayangzhou, Xingan, Jiangxi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#TombXDM_at_Dayangzhou_Xingan_Jiangxi</IRI>
+        <Literal xml:lang="zh">江西新干大洋洲墓葬XDM</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Tomb_at_Xiaonanzhang_Village_Wen_County_Henan</IRI>
+        <Literal xml:lang="en">Tomb at Xiaonanzhang Village, Wen County, Henan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Tomb_at_Xiaonanzhang_Village_Wen_County_Henan</IRI>
+        <Literal xml:lang="zh">河南温县小南张村墓葬</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#Tool</IRI>
         <Literal xml:lang="zh">生产或生活用青铜工具</Literal>
@@ -5989,6 +6397,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Wen_County_Xifang_Ding</IRI>
+        <Literal xml:lang="en">Xifang Ding, Wen County</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Wen_County_Xifang_Ding</IRI>
+        <Literal xml:lang="zh">温县徙方鼎</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Whorl-pattern_Stemmed_Yu</IRI>
         <Literal xml:lang="en">Whorl-pattern Stemmed Yu</Literal>
     </AnnotationAssertion>
@@ -6009,6 +6427,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Xiangyang_Hui_Ethnic_Food_Factory_Zhengzhou_Henan</IRI>
+        <Literal xml:lang="en">Xiangyang Hui Ethnic Food Factory, Zhengzhou, Henan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Xiangyang_Hui_Ethnic_Food_Factory_Zhengzhou_Henan</IRI>
+        <Literal xml:lang="zh">河南郑州向阳回族食品厂</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Xiao</IRI>
         <Literal xml:lang="en">Owl Motif</Literal>
     </AnnotationAssertion>
@@ -6016,6 +6444,26 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Xiao</IRI>
         <Literal xml:lang="zh">鸮纹</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Xiaomintun_Bronze_Foundry_Site_Yinxu_Anyang_Henan</IRI>
+        <Literal xml:lang="en">Xiaomintun Bronze Foundry Site, Yinxu, Anyang, Henan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Xiaomintun_Bronze_Foundry_Site_Yinxu_Anyang_Henan</IRI>
+        <Literal xml:lang="zh">河南安阳殷墟孝民屯铸铜作坊遗址</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Xindian_Zaoyang_Hubei</IRI>
+        <Literal xml:lang="en">Xindian, Zaoyang, Hubei</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Xindian_Zaoyang_Hubei</IRI>
+        <Literal xml:lang="zh">湖北枣阳新店</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -6153,6 +6601,16 @@
         <Literal xml:lang="zh">殷墟四期</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Yinxu_Anyang_Henan</IRI>
+        <Literal xml:lang="en">Yinxu, Anyang, Henan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Yinxu_Anyang_Henan</IRI>
+        <Literal xml:lang="zh">河南安阳殷墟</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#You</IRI>
         <Literal xml:lang="en">Covered wine jar</Literal>
@@ -6176,6 +6634,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#You-V-192</IRI>
         <Literal xml:lang="zh">卣(V-192)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#You_M5-829</IRI>
+        <Literal xml:lang="zh">卣(M5:829)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
@@ -6216,6 +6679,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Yue_from_the_tomb_of_Fu_Hao</IRI>
         <Literal xml:lang="zh">妇好墓出土钺</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Yueyang_Feijia-he_Zun</IRI>
+        <Literal xml:lang="zh">岳阳费家河尊</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Yueyang_Feijia-he_Zun</IRI>
+        <Literal>Feijia-he Zun, Yueyang</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
@@ -6549,248 +7022,13 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Baijiazhuang,_Zhengzhou,_Henan</IRI>
-        <Literal xml:lang="en">Baijiazhuang, Zhengzhou, Henan</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Baijiazhuang,_Zhengzhou,_Henan</IRI>
-        <Literal xml:lang="zh">河南郑州白家庄</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Circular_sacrificial_pit_at_Hougang,_Gaolouzhuang,_Anyang,_Henan</IRI>
-        <Literal xml:lang="en">Circular sacrificial pit at Hougang, Gaolouzhuang, Anyang, Henan</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Circular_sacrificial_pit_at_Hougang,_Gaolouzhuang,_Anyang,_Henan</IRI>
-        <Literal xml:lang="zh">河南安阳高楼庄后岗圆形祭祀坑</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Ding-H1:2</IRI>
-        <Literal xml:lang="zh">鼎(H1:2)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#Dou(FoodVessel)</IRI>
-        <Literal xml:lang="en">Stemmed dish</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Dou(FoodVessel)</IRI>
-        <Literal xml:lang="en">Dou</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Dou(FoodVessel)</IRI>
-        <Literal xml:lang="zh">豆</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#Dou(WineVessel)</IRI>
-        <Literal xml:lang="en">Ladle</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Dou(WineVessel)</IRI>
-        <Literal xml:lang="en">Dou</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Dou(WineVessel)</IRI>
-        <Literal xml:lang="zh">斗</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Dou-M5:744</IRI>
-        <Literal xml:lang="zh">斗(M5:744)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan</IRI>
+        <IRI>#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan</IRI>
         <Literal xml:lang="en">Dragon-and-Tiger Zun from Yue’er River, Funan</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Dragon-and-Tiger_Zun_from_Yue’er_River,_Funan</IRI>
+        <IRI>#Dragon-and-Tiger_Zun_from_Yue’er_River_Funan</IRI>
         <Literal xml:lang="zh">阜南月儿河龙虎尊</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Duling_Street,_Zhengzhou</IRI>
-        <Literal xml:lang="en">Duling Street, Zhengzhou</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Duling_Street,_Zhengzhou</IRI>
-        <Literal xml:lang="zh">郑州杜岭街</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Erligang_Site,_Zhengzhou</IRI>
-        <Literal xml:lang="en">Erligang Site, Zhengzhou</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Erligang_Site,_Zhengzhou</IRI>
-        <Literal xml:lang="zh">郑州二里岗遗址</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Fang_Yi_in_the_Museum_of_East_Asian_Art,_Cologne</IRI>
-        <Literal xml:lang="en">Fang Yi in the Museum of East Asian Art, Cologne</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Fang_Yi_in_the_Museum_of_East_Asian_Art,_Cologne</IRI>
-        <Literal xml:lang="zh">科隆东亚艺术博物馆方彝</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Feijia-he_Zun,_Yueyang</IRI>
-        <Literal xml:lang="en">Feijia-he Zun, Yueyang</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Feijia-he_Zun,_Yueyang</IRI>
-        <Literal xml:lang="zh">岳阳费家河尊</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Feijia_River,_Yueyang,_Hunan</IRI>
-        <Literal xml:lang="en">Feijia River, Yueyang, Hunan</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Feijia_River,_Yueyang,_Hunan</IRI>
-        <Literal xml:lang="zh">湖南岳阳费家河</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#Fu(FoodVessel)</IRI>
-        <Literal xml:lang="en">Rectangular grain vessel</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Fu(FoodVessel)</IRI>
-        <Literal>Fu(FoodVessel)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Fu(FoodVessel)</IRI>
-        <Literal xml:lang="zh">簠</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Guandimiao_Village,_Tumen_Town,_Yunxi_County,_Shiyan,_Hubei</IRI>
-        <Literal xml:lang="en">Guandimiao Village, Tumen Town, Yunxi County, Shiyan, Hubei</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Guandimiao_Village,_Tumen_Town,_Yunxi_County,_Shiyan,_Hubei</IRI>
-        <Literal xml:lang="zh">湖北省十堰市郧西县土门镇关帝庙村</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Gui-M1:5</IRI>
-        <Literal xml:lang="zh">铜簋(M1:5)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Gui-M5:848</IRI>
-        <Literal xml:lang="zh">簋(M5:848)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Jia-M2:19</IRI>
-        <Literal xml:lang="zh">斝(M2:19)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Jia-M5:781</IRI>
-        <Literal xml:lang="zh">斝(M5:781)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#Jian(WaterVessel)</IRI>
-        <Literal xml:lang="en">Large water/mirror basin</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Jian(WaterVessel)</IRI>
-        <Literal>Jian</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Jian(WaterVessel)</IRI>
-        <Literal xml:lang="zh">鉴</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#Jian(Weapon)</IRI>
-        <Literal xml:lang="en">Sword</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Jian(Weapon)</IRI>
-        <Literal>jian</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Jian(Weapon)</IRI>
-        <Literal xml:lang="zh">剑</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Lei(AgriculturalTool)</IRI>
-        <Literal xml:lang="en">Lei</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Lei(AgriculturalTool)</IRI>
-        <Literal xml:lang="zh">耒</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#Lei(RitualVessel)</IRI>
-        <Literal xml:lang="en">Large wine jar</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Lei(RitualVessel)</IRI>
-        <Literal xml:lang="en">Lei</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Lei(RitualVessel)</IRI>
-        <Literal xml:lang="zh">罍</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Li(Lingshi_Shanxi)</IRI>
-        <Literal xml:lang="zh">鬲（山西灵石）</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Lijiatan,_Wushan,_Chongqing</IRI>
-        <Literal xml:lang="en">Lijiatan, Wushan, Chongqing</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Lijiatan,_Wushan,_Chongqing</IRI>
-        <Literal xml:lang="zh">重庆巫山李家滩</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Lijiatan_Zun,_Wushan,_Chongqing</IRI>
-        <Literal xml:lang="en">Lijiatan Zun, Wushan, Chongqing</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Lijiatan_Zun,_Wushan,_Chongqing</IRI>
-        <Literal xml:lang="zh">巫山李家滩尊</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -6804,46 +7042,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Linzheyu_Village,_Baode_County</IRI>
-        <Literal xml:lang="en">Linzheyu Village, Baode County</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Linzheyu_Village,_Baode_County</IRI>
-        <Literal xml:lang="zh">保德林遮峪村</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Mangzhang_Owl-shaped_You,_Luoshan</IRI>
-        <Literal xml:lang="en">Mangzhang Owl-shaped You, Luoshan</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Mangzhang_Owl-shaped_You,_Luoshan</IRI>
-        <Literal xml:lang="zh">罗山蟒张鸮卣</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#North_Wuguan_Site,_Anyang,_Henan</IRI>
-        <Literal xml:lang="en">North Wuguan Site, Anyang, Henan</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#North_Wuguan_Site,_Anyang,_Henan</IRI>
-        <Literal xml:lang="zh">河南安阳武官北地</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Panlongcheng_Site,_Huangpi,_Hubei</IRI>
-        <Literal xml:lang="en">Panlongcheng Site, Huangpi, Hubei</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Panlongcheng_Site,_Huangpi,_Hubei</IRI>
-        <Literal xml:lang="zh">湖北黄陂盘龙城遗址</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Pi-he_Zun_from_Liu’an</IRI>
         <Literal xml:lang="en">Pi-he Zun from Liu’an</Literal>
     </AnnotationAssertion>
@@ -6854,227 +7052,22 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Pi_River,_Liu’an,_Anhui</IRI>
+        <IRI>#PiRiver_Liu’an_Anhui</IRI>
         <Literal xml:lang="en">Pi River, Liu’an, Anhui</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Pi_River,_Liu’an,_Anhui</IRI>
+        <IRI>#PiRiver_Liu’an_Anhui</IRI>
         <Literal xml:lang="zh">安徽六安淠河</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Qianzhuang_Site,_Pinglu,_Shanxi</IRI>
-        <Literal xml:lang="en">Qianzhuang Site, Pinglu, Shanxi</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Qianzhuang_Site,_Pinglu,_Shanxi</IRI>
-        <Literal xml:lang="zh">山西平陆前庄遗址</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Shang-period_Bronze_Bu_from_Tumen,_Yunxi</IRI>
-        <Literal xml:lang="en">Shang-period Bronze Bu from Tumen, Yunxi</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Shang-period_Bronze_Bu_from_Tumen,_Yunxi</IRI>
-        <Literal xml:lang="zh">郧西土门商代铜瓿</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Subu_Tun,_Yidu,_Shandong</IRI>
-        <Literal xml:lang="en">Subu Tun, Yidu, Shandong</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Subu_Tun,_Yidu,_Shandong</IRI>
-        <Literal xml:lang="zh">山东益都苏埠屯</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Taixi,_Gaocheng,_Hebei</IRI>
-        <Literal xml:lang="en">Taixi, Gaocheng, Hebei</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Taixi,_Gaocheng,_Hebei</IRI>
-        <Literal xml:lang="zh">河北藁城台西</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tanheli_Site,_Huangcai,_Ningxiang,_Hunan</IRI>
-        <Literal xml:lang="en">Tanheli Site, Huangcai, Ningxiang, Hunan</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tanheli_Site,_Huangcai,_Ningxiang,_Hunan</IRI>
-        <Literal xml:lang="zh">湖南宁乡黄材炭河里遗址</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Taohuazhuang,_Shilou,_Shanxi</IRI>
-        <Literal xml:lang="en">Taohuazhuang, Shilou, Shanxi</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Taohuazhuang,_Shilou,_Shanxi</IRI>
-        <Literal xml:lang="zh">山西石楼桃花庄</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_1004,_North_Wuguan,_Anyang,_Henan</IRI>
-        <Literal xml:lang="en">Tomb 1004, North Wuguan, Anyang, Henan</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_1004,_North_Wuguan,_Anyang,_Henan</IRI>
-        <Literal xml:lang="zh">河南安阳武官北地1004号墓</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_1_at_Lijiazui,_Panlongcheng,_Huangpi</IRI>
-        <Literal xml:lang="en">Tomb 1 at Lijiazui, Panlongcheng, Huangpi</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_1_at_Lijiazui,_Panlongcheng,_Huangpi</IRI>
-        <Literal xml:lang="zh">黄坡盘龙城李家咀1号墓</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_5,_Xiaotun,_Anyang,_Henan</IRI>
-        <Literal xml:lang="en">Tomb 5, Xiaotun, Anyang, Henan</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_5,_Xiaotun,_Anyang,_Henan</IRI>
-        <Literal xml:lang="zh">河南安阳小屯五号墓</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_54,_Liulige,_Huixian,_Henan</IRI>
-        <Literal xml:lang="en">Tomb 54, Liulige, Huixian, Henan</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_54,_Liulige,_Huixian,_Henan</IRI>
-        <Literal xml:lang="zh">河南辉县琉璃阁54号墓</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_M1,_Houli_Village,_Mangzhang,_Luoshan,_Henan</IRI>
-        <Literal xml:lang="en">Tomb M1, Houli Village, Mangzhang, Luoshan, Henan</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_M1,_Houli_Village,_Mangzhang,_Luoshan,_Henan</IRI>
-        <Literal xml:lang="zh">河南罗山蟒张后李村M1</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_M1,_Jingjie_Village,_Lingshi,_Shanxi</IRI>
-        <Literal xml:lang="en">Tomb M1, Jingjie Village, Lingshi, Shanxi</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_M1,_Jingjie_Village,_Lingshi,_Shanxi</IRI>
-        <Literal xml:lang="zh">山西灵石旌介村M1</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_XDM_at_Dayangzhou,_Xingan,_Jiangxi</IRI>
-        <Literal xml:lang="en">Tomb XDM at Dayangzhou, Xingan, Jiangxi</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_XDM_at_Dayangzhou,_Xingan,_Jiangxi</IRI>
-        <Literal xml:lang="zh">江西新干大洋洲墓葬XDM</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_at_Xiaonanzhang_Village,_Wen_County,_Henan</IRI>
-        <Literal xml:lang="en">Tomb at Xiaonanzhang Village, Wen County, Henan</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Tomb_at_Xiaonanzhang_Village,_Wen_County,_Henan</IRI>
-        <Literal xml:lang="zh">河南温县小南张村墓葬</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Xiangyang_Hui_Ethnic_Food_Factory,_Zhengzhou,_Henan</IRI>
-        <Literal xml:lang="en">Xiangyang Hui Ethnic Food Factory, Zhengzhou, Henan</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Xiangyang_Hui_Ethnic_Food_Factory,_Zhengzhou,_Henan</IRI>
-        <Literal xml:lang="zh">河南郑州向阳回族食品厂</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Xiaomintun_Bronze_Foundry_Site,_Yinxu,_Anyang,_Henan</IRI>
-        <Literal xml:lang="en">Xiaomintun Bronze Foundry Site, Yinxu, Anyang, Henan</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Xiaomintun_Bronze_Foundry_Site,_Yinxu,_Anyang,_Henan</IRI>
-        <Literal xml:lang="zh">河南安阳殷墟孝民屯铸铜作坊遗址</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Xiaomintun_Jue,_Anyang</IRI>
-        <Literal xml:lang="en">Xiaomintun Jue, Anyang</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Xiaomintun_Jue,_Anyang</IRI>
-        <Literal xml:lang="zh">安阳孝民屯爵</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Xifang_Ding,_Wen_County</IRI>
-        <Literal xml:lang="en">Xifang Ding, Wen County</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Xifang_Ding,_Wen_County</IRI>
-        <Literal xml:lang="zh">温县徙方鼎</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Xindian,_Zaoyang,_Hubei</IRI>
-        <Literal xml:lang="en">Xindian, Zaoyang, Hubei</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Xindian,_Zaoyang,_Hubei</IRI>
-        <Literal xml:lang="zh">湖北枣阳新店</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Yinxu,_Anyang,_Henan</IRI>
-        <Literal xml:lang="en">Yinxu, Anyang, Henan</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Yinxu,_Anyang,_Henan</IRI>
-        <Literal xml:lang="zh">河南安阳殷墟</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#You-M5:829</IRI>
-        <Literal xml:lang="zh">卣(M5:829)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Yue’er_River,_Zhuzhai,_Funan,_Anhui</IRI>
+        <IRI>#Yue’er_River_Zhuzhai_Funan_Anhui</IRI>
         <Literal xml:lang="en">Yue’er River, Zhuzhai, Funan, Anhui</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Yue’er_River,_Zhuzhai,_Funan,_Anhui</IRI>
+        <IRI>#Yue’er_River_Zhuzhai_Funan_Anhui</IRI>
         <Literal xml:lang="zh">安徽阜南朱寨月儿河</Literal>
     </AnnotationAssertion>
     <SubAnnotationPropertyOf>
