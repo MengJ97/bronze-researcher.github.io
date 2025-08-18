@@ -5,8 +5,7 @@
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="https://github.com/MengJ97/bronze-researcher.github.io/blob/main/ShangDynastyBronzeOntology.owl"
-     versionIRI="https://github.com/MengJ97/bronze-researcher.github.io/blob/main/ShangDynastyBronzeOntology.owl/1.0.0">
+     ontologyIRI="https://github.com/MengJ97/bronze-researcher.github.io/blob/main/ShangDynastyBronzeOntology.owl">
     <Prefix name="" IRI="http://www.semanticweb.org/77260/ontologies/2025/2/ShangDynastyBronzeOntology/"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
@@ -6693,12 +6692,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Yueyang_Feijia-he_Zun</IRI>
-        <Literal xml:lang="zh">岳阳费家河尊</Literal>
+        <Literal>Feijia-he Zun, Yueyang</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#Yueyang_Feijia-he_Zun</IRI>
-        <Literal>Feijia-he Zun, Yueyang</Literal>
+        <Literal xml:lang="zh">岳阳费家河尊</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
